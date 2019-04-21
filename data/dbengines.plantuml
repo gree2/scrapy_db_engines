@@ -1,0 +1,501 @@
+@startmindmap
+* dbengines
+** 001 => complete ranking
+** 002 => content stores
+** 003 => document stores
+** 004 => event stores
+** 005 => graph dbms
+** 006 => key-value stores
+** 007 => multivalue dbms
+** 008 => native xml dbms
+** 009 => navigational dbms
+** 010 => object oriented dbms
+** 011 => rdf stores
+** 012 => relational dbms
+** 013 => search engines
+** 014 => time series dbms
+** 015 => wide column stores
+@endmindmap
+
+
+@startmindmap
+* complete ranking
+** 001
+*** 001 => Oracle 
+*** 002 => MySQL 
+*** 003 => Microsoft SQL Server 
+*** 004 => PostgreSQL 
+*** 005 => MongoDB 
+*** 006 => IBM Db2 
+*** 007 => Redis 
+*** 008 => Elasticsearch 
+*** 009 => Microsoft Access
+*** 010 => SQLite 
+** 002
+*** 011 => Cassandra 
+*** 012 => MariaDB 
+*** 013 => Splunk
+*** 014 => Teradata 
+*** 015 => Hive 
+*** 016 => Solr
+*** 017 => HBase
+*** 018 => FileMaker
+*** 019 => Amazon DynamoDB 
+*** 020 => SAP Adaptive Server
+** 003
+*** 021 => SAP HANA 
+*** 022 => Neo4j 
+*** 023 => Couchbase 
+*** 024 => Microsoft Azure SQL Database
+*** 025 => Memcached
+*** 026 => Informix
+*** 027 => Microsoft Azure Cosmos DB 
+*** 028 => Vertica 
+*** 029 => Amazon Redshift 
+*** 030 => Firebird
+** 004
+*** 031 => Google BigQuery 
+*** 032 => CouchDB
+*** 033 => Netezza
+*** 034 => InfluxDB 
+*** 035 => Spark SQL
+*** 036 => Impala
+*** 037 => MarkLogic 
+*** 038 => Greenplum
+*** 039 => dBASE
+*** 040 => Oracle Essbase
+** 005
+*** 041 => Firebase Realtime Database
+*** 042 => Datastax Enterprise 
+*** 043 => Microsoft Azure SQL Data Warehouse
+*** 044 => Hazelcast
+*** 045 => Realm
+*** 046 => Sphinx
+*** 047 => H2
+*** 048 => Interbase
+*** 049 => Ehcache
+*** 050 => Aerospike 
+** 006
+*** 051 => OrientDB
+*** 052 => Amazon Aurora
+*** 053 => Kdb+ 
+*** 054 => Riak KV
+*** 055 => Microsoft Azure Search
+*** 056 => Ingres
+*** 057 => SAP SQL Anywhere
+*** 058 => HyperSQL
+*** 059 => Derby
+*** 060 => Ignite
+@endmindmap
+
+
+@startmindmap
+* content stores
+** 001 => Jackrabbit
+** 002 => ModeShape
+@endmindmap
+
+
+@startmindmap
+* document stores
+** 001
+*** 001 => MongoDB 
+*** 002 => Amazon DynamoDB 
+*** 003 => Couchbase 
+*** 004 => Microsoft Azure Cosmos DB 
+*** 005 => CouchDB
+*** 006 => MarkLogic 
+*** 007 => Firebase Realtime Database
+*** 008 => OrientDB
+*** 009 => RavenDB 
+*** 010 => Google Cloud Datastore
+** 002
+*** 011 => Google Cloud Firestore
+*** 012 => ArangoDB
+*** 013 => RethinkDB
+*** 014 => Cloudant
+*** 015 => PouchDB
+*** 016 => Apache Drill
+*** 017 => CloudKit
+*** 018 => Mnesia
+*** 019 => Datameer
+*** 020 => FoundationDB
+** 003
+*** 021 => LiteDB
+*** 022 => BigchainDB
+*** 023 => MapR-DB
+*** 024 => InterSystems IRIS 
+*** 025 => Sqrrl
+*** 026 => Percona Server for MongoDB 
+*** 027 => AlaSQL
+*** 028 => LokiJS
+*** 029 => FaunaDB 
+*** 030 => YugaByte DB
+** 004
+*** 031 => Sequoiadb 
+*** 032 => EJDB
+*** 033 => NosDB
+*** 034 => DensoDB
+*** 035 => RaptorDB
+*** 036 => SenseiDB
+*** 037 => WhiteDB
+*** 038 => ToroDB
+*** 039 => iBoxDB
+*** 040 => CortexDB
+** 005
+*** 041 => FinchDB
+*** 042 => OrigoDB
+*** 043 => Atos Standard Common Repository
+*** 043 => Djondb
+*** 043 => JasDB
+*** 043 => JSqlDb
+@endmindmap
+
+
+@startmindmap
+* event stores
+** 001 => Event Store
+** 002 => IBM Db2 Event Store
+** 003 => NEventStore
+@endmindmap
+
+
+@startmindmap
+* graph dbms
+** 001
+*** 001 => Neo4j 
+*** 002 => Microsoft Azure Cosmos DB 
+*** 003 => OrientDB
+*** 004 => ArangoDB
+*** 005 => Virtuoso 
+*** 006 => Amazon Neptune
+*** 007 => JanusGraph
+*** 008 => Giraph
+*** 009 => Dgraph 
+*** 010 => GraphDB 
+** 002
+*** 011 => AllegroGraph 
+*** 012 => Stardog
+*** 013 => TigerGraph 
+*** 014 => Sqrrl
+*** 015 => Graph Engine
+*** 016 => Blazegraph
+*** 017 => InfiniteGraph
+*** 018 => FaunaDB 
+*** 019 => FlockDB
+*** 020 => AgensGraph 
+** 003
+*** 021 => InfoGrid
+*** 022 => AnzoGraph
+*** 023 => HyperGraphDB
+*** 024 => Sparksee
+*** 025 => GRAKN.AI 
+*** 026 => GraphBase
+*** 027 => TinkerGraph
+*** 028 => VelocityDB
+*** 029 => HGraphDB
+*** 030 => Memgraph 
+** 004
+*** 031 => DataChemist
+@endmindmap
+
+
+@startmindmap
+* key-value stores
+** 001
+*** 001 => Redis 
+*** 002 => Amazon DynamoDB 
+*** 003 => Memcached
+*** 004 => Microsoft Azure Cosmos DB 
+*** 005 => Hazelcast
+*** 006 => Ehcache
+*** 007 => Aerospike 
+*** 008 => OrientDB
+*** 009 => Riak KV
+*** 010 => Ignite
+** 002
+*** 011 => ArangoDB
+*** 012 => InterSystems Caché
+*** 013 => Oracle NoSQL 
+*** 014 => Oracle Berkeley DB
+*** 015 => LevelDB
+*** 016 => RocksDB
+*** 017 => Infinispan
+*** 018 => Oracle Coherence
+*** 019 => GridGain
+*** 020 => Amazon SimpleDB
+** 003
+*** 021 => Geode
+*** 022 => WiredTiger
+*** 023 => NCache 
+*** 024 => FoundationDB
+*** 025 => Tarantool
+*** 026 => GT.M
+*** 027 => XAP
+*** 028 => ZODB
+*** 029 => WebSphere eXtreme Scale
+*** 030 => InterSystems IRIS 
+** 004
+*** 031 => Tokyo Cabinet
+*** 032 => BoltDB
+*** 033 => Sqrrl
+*** 034 => MapDB
+*** 035 => Graph Engine
+*** 036 => Tokyo Tyrant
+*** 037 => c-treeACE 
+*** 038 => Project Voldemort
+*** 039 => Hibari
+*** 040 => Scalaris
+** 005
+*** 041 => YugaByte DB
+*** 042 => GridDB 
+*** 043 => c-treeEDGE 
+*** 044 => Kyoto Cabinet
+*** 045 => STSdb
+*** 046 => TayzGrid
+*** 047 => Bangdb
+*** 048 => JaguarDB 
+*** 049 => SwayDB
+*** 050 => Badger
+** 006
+*** 051 => LeanXcale
+*** 052 => CodernityDB
+*** 053 => Kyoto Tycoon
+*** 054 => Elliptics
+*** 055 => InfinityDB
+*** 056 => ScaleOut StateServer
+*** 057 => LedisDB
+*** 058 => HyperLevelDB
+*** 059 => Upscaledb
+*** 060 => CortexDB
+@endmindmap
+
+
+@startmindmap
+* multivalue dbms
+** 001 => Adabas
+** 002 => UniData,UniVerse
+** 003 => jBASE 
+** 004 => Model 204
+** 005 => D3
+** 006 => SciDB
+** 007 => OpenInsight
+** 008 => Northgate Reality
+** 009 => Rasdaman
+** 010 => OpenQM
+@endmindmap
+
+
+@startmindmap
+* native xml dbms
+** 001 => MarkLogic 
+** 002 => Virtuoso 
+** 003 => Oracle Berkeley DB
+** 004 => BaseX
+** 005 => Sedna
+** 006 => eXist-db
+** 007 => searchxml
+@endmindmap
+
+
+@startmindmap
+* navigational dbms
+** 001 => IMS
+** 002 => IDMS
+@endmindmap
+
+
+@startmindmap
+* object oriented dbms
+** 001 => InterSystems Caché
+** 002 => Versant Object Database
+** 003 => Db4o
+** 004 => ObjectStore
+** 005 => Matisse
+** 006 => Objectivity/DB
+** 007 => ObjectDB
+** 008 => GemStone/S
+** 009 => InterSystems IRIS 
+** 010 => ObjectBox
+** 011 => Perst
+** 012 => Jade
+** 013 => Starcounter
+** 014 => Eloquera
+** 015 => WakandaDB
+** 016 => VelocityDB
+** 017 => Versant FastObjects
+** 018 => Siaqodb
+** 019 => OrigoDB
+** 020 => JSqlDb
+@endmindmap
+
+
+@startmindmap
+* rdf stores
+** 001 => MarkLogic 
+** 002 => Virtuoso 
+** 003 => Apache Jena - TDB
+** 004 => Amazon Neptune
+** 005 => GraphDB 
+** 006 => AllegroGraph 
+** 007 => Stardog
+** 008 => Blazegraph
+** 009 => Algebraix
+** 010 => Redland
+** 011 => RDF4J
+** 012 => 4store
+** 013 => CubicWeb
+** 014 => RedStore
+** 015 => Mulgara
+** 016 => Strabon
+** 017 => BrightstarDB
+** 018 => Dydra
+** 019 => SparkleDB
+@endmindmap
+
+
+@startmindmap
+* relational dbms
+** 001
+*** 001 => Oracle 
+*** 002 => MySQL 
+*** 003 => Microsoft SQL Server 
+*** 004 => PostgreSQL 
+*** 005 => IBM Db2 
+*** 006 => Microsoft Access
+*** 007 => SQLite 
+*** 008 => MariaDB 
+*** 009 => Teradata 
+*** 010 => Hive 
+** 002
+*** 011 => FileMaker
+*** 012 => SAP Adaptive Server
+*** 013 => SAP HANA 
+*** 014 => Microsoft Azure SQL Database
+*** 015 => Informix
+*** 016 => Vertica 
+*** 017 => Amazon Redshift 
+*** 018 => Firebird
+*** 019 => Google BigQuery 
+*** 020 => Netezza
+** 003
+*** 021 => Spark SQL
+*** 022 => Impala
+*** 023 => Greenplum
+*** 024 => dBASE
+*** 025 => Oracle Essbase
+*** 026 => Microsoft Azure SQL Data Warehouse
+*** 027 => Realm
+*** 028 => H2
+*** 029 => Interbase
+*** 030 => Amazon Aurora
+** 004
+*** 031 => Ingres
+*** 032 => SAP SQL Anywhere
+*** 033 => HyperSQL
+*** 034 => Derby
+*** 035 => Ignite
+*** 036 => SAP IQ
+*** 037 => Presto
+*** 038 => MaxDB
+*** 039 => OpenEdge
+*** 040 => MemSQL 
+** 005
+*** 041 => Virtuoso 
+*** 042 => Snowflake 
+*** 043 => InterSystems Caché
+*** 044 => TimesTen 
+*** 045 => SAP Advantage Database Server
+*** 046 => Apache Drill
+*** 047 => Percona Server for MySQL 
+*** 048 => OmniSci 
+*** 049 => ClickHouse
+*** 050 => 4D
+** 006
+*** 051 => CockroachDB
+*** 052 => GridGain
+*** 053 => EnterpriseDB 
+*** 054 => EXASOL
+*** 055 => VoltDB
+*** 056 => Google Cloud Spanner 
+*** 057 => Datomic
+*** 058 => IBM Db2 warehouse
+*** 059 => MonetDB 
+*** 060 => Red Brick
+@endmindmap
+
+
+@startmindmap
+* search engines
+** 001 => Elasticsearch 
+** 002 => Splunk
+** 003 => Solr
+** 004 => MarkLogic 
+** 005 => Sphinx
+** 006 => Microsoft Azure Search
+** 007 => Algolia
+** 008 => Google Search Appliance
+** 009 => Amazon CloudSearch
+** 010 => Xapian
+** 011 => CrateDB 
+** 012 => SearchBlox
+** 013 => Manticore Search
+** 014 => DBSight
+** 015 => searchxml
+** 016 => Exorbyte
+** 017 => FinchDB
+** 018 => Indica
+@endmindmap
+
+
+@startmindmap
+* time series dbms
+** 001 => InfluxDB 
+** 002 => Kdb+ 
+** 003 => Graphite
+** 004 => Prometheus
+** 005 => RRDtool
+** 006 => OpenTSDB
+** 007 => Druid
+** 008 => TimescaleDB 
+** 009 => KairosDB
+** 010 => eXtremeDB 
+** 011 => FaunaDB 
+** 012 => Amazon Timestream
+** 013 => GridDB 
+** 014 => Heroic
+** 015 => IBM Db2 Event Store
+** 016 => Riak TS
+** 017 => Axibase
+** 018 => Warp 10
+** 019 => Hawkular Metrics
+** 020 => Quasardb 
+** 021 => Blueflood
+** 022 => TempoIQ
+** 023 => SiriDB
+** 024 => IRONdb 
+** 025 => Machbase
+** 026 => DolphinDB
+** 027 => Newts
+** 028 => SiteWhere
+** 028 => VictoriaMetrics
+** 028 => Yanza
+@endmindmap
+
+
+@startmindmap
+* wide column stores
+** 001 => Cassandra 
+** 002 => HBase
+** 003 => Microsoft Azure Cosmos DB 
+** 004 => Datastax Enterprise 
+** 005 => Microsoft Azure Table Storage
+** 006 => Accumulo
+** 007 => Google Cloud Bigtable 
+** 008 => ScyllaDB 
+** 009 => MapR-DB
+** 010 => Sqrrl
+** 011 => YugaByte DB
+** 012 => Alibaba Cloud Table Store
+@endmindmap
+

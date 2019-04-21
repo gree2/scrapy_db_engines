@@ -1,0 +1,750 @@
+rank_text,rank_href,rank,name_text,name_href,models
+Navigational DBMS,https://db-engines.com/en/ranking/navigational+dbms,1,IMS,https://db-engines.com/en/system/IMS,Navigational
+Navigational DBMS,https://db-engines.com/en/ranking/navigational+dbms,2,IDMS,https://db-engines.com/en/system/IDMS,Navigational
+Content stores,https://db-engines.com/en/ranking/content+store,1,Jackrabbit,https://db-engines.com/en/system/Jackrabbit,Content
+Content stores,https://db-engines.com/en/ranking/content+store,2,ModeShape,https://db-engines.com/en/system/ModeShape,Content
+Complete ranking,https://db-engines.com/en/ranking,1,Oracle ,https://db-engines.com/en/system/Oracle,Relational DBMS|Document store|Graph DBMS|RDF store
+Complete ranking,https://db-engines.com/en/ranking,2,MySQL ,https://db-engines.com/en/system/MySQL,Relational DBMS|Document store
+Complete ranking,https://db-engines.com/en/ranking,3,Microsoft SQL Server ,https://db-engines.com/en/system/Microsoft+SQL+Server,Relational DBMS|Document store|Graph DBMS
+Complete ranking,https://db-engines.com/en/ranking,4,PostgreSQL ,https://db-engines.com/en/system/PostgreSQL,Relational DBMS|Document store
+Complete ranking,https://db-engines.com/en/ranking,5,MongoDB ,https://db-engines.com/en/system/MongoDB,Document
+Complete ranking,https://db-engines.com/en/ranking,6,IBM Db2 ,https://db-engines.com/en/system/IBM+Db2,Relational DBMS|Document store|RDF store
+Complete ranking,https://db-engines.com/en/ranking,7,Redis ,https://db-engines.com/en/system/Redis,Key-value store|Document store|Graph DBMS|Search engine|Time Series DBMS
+Complete ranking,https://db-engines.com/en/ranking,8,Elasticsearch ,https://db-engines.com/en/system/Elasticsearch,Search engine|Document store
+Complete ranking,https://db-engines.com/en/ranking,9,Microsoft Access,https://db-engines.com/en/system/Microsoft+Access,Relational
+Complete ranking,https://db-engines.com/en/ranking,10,SQLite ,https://db-engines.com/en/system/SQLite,Relational
+Complete ranking,https://db-engines.com/en/ranking,11,Cassandra ,https://db-engines.com/en/system/Cassandra,Wide column
+Complete ranking,https://db-engines.com/en/ranking,12,MariaDB ,https://db-engines.com/en/system/MariaDB,Relational DBMS|Document store|Graph DBMS
+Complete ranking,https://db-engines.com/en/ranking,13,Splunk,https://db-engines.com/en/system/Splunk,Search engine
+Complete ranking,https://db-engines.com/en/ranking,14,Teradata ,https://db-engines.com/en/system/Teradata,Relational
+Complete ranking,https://db-engines.com/en/ranking,15,Hive ,https://db-engines.com/en/system/Hive,Relational
+Complete ranking,https://db-engines.com/en/ranking,16,Solr,https://db-engines.com/en/system/Solr,Search engine
+Complete ranking,https://db-engines.com/en/ranking,17,HBase,https://db-engines.com/en/system/HBase,Wide column
+Complete ranking,https://db-engines.com/en/ranking,18,FileMaker,https://db-engines.com/en/system/FileMaker,Relational
+Complete ranking,https://db-engines.com/en/ranking,19,Amazon DynamoDB ,https://db-engines.com/en/system/Amazon+DynamoDB,Document store|Key-value store
+Complete ranking,https://db-engines.com/en/ranking,20,SAP Adaptive Server,https://db-engines.com/en/system/SAP+Adaptive+Server,Relational
+Complete ranking,https://db-engines.com/en/ranking,21,SAP HANA ,https://db-engines.com/en/system/SAP+HANA,Relational DBMS|Document store|Graph DBMS
+Complete ranking,https://db-engines.com/en/ranking,22,Neo4j ,https://db-engines.com/en/system/Neo4j,Graph
+Complete ranking,https://db-engines.com/en/ranking,23,Couchbase ,https://db-engines.com/en/system/Couchbase,Document
+Complete ranking,https://db-engines.com/en/ranking,24,Microsoft Azure SQL Database,https://db-engines.com/en/system/Microsoft+Azure+SQL+Database,Relational DBMS|Document store|Graph DBMS
+Complete ranking,https://db-engines.com/en/ranking,25,Memcached,https://db-engines.com/en/system/Memcached,Key-value
+Complete ranking,https://db-engines.com/en/ranking,26,Informix,https://db-engines.com/en/system/Informix,Relational DBMS|Document store|Time Series DBMS
+Complete ranking,https://db-engines.com/en/ranking,27,Microsoft Azure Cosmos DB ,https://db-engines.com/en/system/Microsoft+Azure+Cosmos+DB,Document store|Graph DBMS|Key-value store|Wide column store
+Complete ranking,https://db-engines.com/en/ranking,28,Vertica ,https://db-engines.com/en/system/Vertica,Relational DBMS|Document store
+Complete ranking,https://db-engines.com/en/ranking,29,Amazon Redshift ,https://db-engines.com/en/system/Amazon+Redshift,Relational
+Complete ranking,https://db-engines.com/en/ranking,30,Firebird,https://db-engines.com/en/system/Firebird,Relational
+Complete ranking,https://db-engines.com/en/ranking,31,Google BigQuery ,https://db-engines.com/en/system/Google+BigQuery,Relational
+Complete ranking,https://db-engines.com/en/ranking,32,CouchDB,https://db-engines.com/en/system/CouchDB,Document
+Complete ranking,https://db-engines.com/en/ranking,33,Netezza,https://db-engines.com/en/system/Netezza,Relational
+Complete ranking,https://db-engines.com/en/ranking,34,InfluxDB ,https://db-engines.com/en/system/InfluxDB,Time Series
+Complete ranking,https://db-engines.com/en/ranking,35,Spark SQL,https://db-engines.com/en/system/Spark+SQL,Relational
+Complete ranking,https://db-engines.com/en/ranking,36,Impala,https://db-engines.com/en/system/Impala,Relational DBMS|Document store
+Complete ranking,https://db-engines.com/en/ranking,37,MarkLogic ,https://db-engines.com/en/system/MarkLogic,Document store|Native XML DBMS|RDF store|Search engine
+Complete ranking,https://db-engines.com/en/ranking,38,Greenplum,https://db-engines.com/en/system/Greenplum,Relational DBMS|Document store
+Complete ranking,https://db-engines.com/en/ranking,39,dBASE,https://db-engines.com/en/system/dBASE,Relational
+Complete ranking,https://db-engines.com/en/ranking,40,Oracle Essbase,https://db-engines.com/en/system/Oracle+Essbase,Relational
+Complete ranking,https://db-engines.com/en/ranking,41,Firebase Realtime Database,https://db-engines.com/en/system/Firebase+Realtime+Database,Document
+Complete ranking,https://db-engines.com/en/ranking,42,Datastax Enterprise ,https://db-engines.com/en/system/Datastax+Enterprise,Wide column store|Document store|Graph DBMS
+Complete ranking,https://db-engines.com/en/ranking,43,Microsoft Azure SQL Data Warehouse,https://db-engines.com/en/system/Microsoft+Azure+SQL+Data+Warehouse,Relational
+Complete ranking,https://db-engines.com/en/ranking,44,Hazelcast,https://db-engines.com/en/system/Hazelcast,Key-value store|Document store
+Complete ranking,https://db-engines.com/en/ranking,45,Realm,https://db-engines.com/en/system/Realm,Relational
+Complete ranking,https://db-engines.com/en/ranking,46,Sphinx,https://db-engines.com/en/system/Sphinx,Search engine
+Complete ranking,https://db-engines.com/en/ranking,47,H2,https://db-engines.com/en/system/H2,Relational
+Complete ranking,https://db-engines.com/en/ranking,48,Interbase,https://db-engines.com/en/system/Interbase,Relational
+Complete ranking,https://db-engines.com/en/ranking,49,Ehcache,https://db-engines.com/en/system/Ehcache,Key-value
+Complete ranking,https://db-engines.com/en/ranking,50,Aerospike ,https://db-engines.com/en/system/Aerospike,Key-value
+Complete ranking,https://db-engines.com/en/ranking,51,OrientDB,https://db-engines.com/en/system/OrientDB,Document store|Graph DBMS|Key-value store
+Complete ranking,https://db-engines.com/en/ranking,52,Amazon Aurora,https://db-engines.com/en/system/Amazon+Aurora,Relational DBMS|Document store
+Complete ranking,https://db-engines.com/en/ranking,53,Kdb+ ,https://db-engines.com/en/system/Kdb%2B,Time Series DBMS|Relational DBMS
+Complete ranking,https://db-engines.com/en/ranking,54,Riak KV,https://db-engines.com/en/system/Riak+KV,Key-value
+Complete ranking,https://db-engines.com/en/ranking,55,Microsoft Azure Search,https://db-engines.com/en/system/Microsoft+Azure+Search,Search engine
+Complete ranking,https://db-engines.com/en/ranking,56,Ingres,https://db-engines.com/en/system/Ingres,Relational
+Complete ranking,https://db-engines.com/en/ranking,57,SAP SQL Anywhere,https://db-engines.com/en/system/SAP+SQL+Anywhere,Relational
+Complete ranking,https://db-engines.com/en/ranking,58,HyperSQL,https://db-engines.com/en/system/HyperSQL,Relational
+Complete ranking,https://db-engines.com/en/ranking,59,Derby,https://db-engines.com/en/system/Derby,Relational
+Complete ranking,https://db-engines.com/en/ranking,60,Ignite,https://db-engines.com/en/system/Ignite,Key-value store|Relational DBMS
+Complete ranking,https://db-engines.com/en/ranking,61,SAP IQ,https://db-engines.com/en/system/SAP+IQ,Relational
+Complete ranking,https://db-engines.com/en/ranking,62,RavenDB ,https://db-engines.com/en/system/RavenDB,Document
+Complete ranking,https://db-engines.com/en/ranking,63,Microsoft Azure Table Storage,https://db-engines.com/en/system/Microsoft+Azure+Table+Storage,Wide column
+Complete ranking,https://db-engines.com/en/ranking,64,Google Cloud Datastore,https://db-engines.com/en/system/Google+Cloud+Datastore,Document
+Complete ranking,https://db-engines.com/en/ranking,65,Google Cloud Firestore,https://db-engines.com/en/system/Google+Cloud+Firestore,Document
+Complete ranking,https://db-engines.com/en/ranking,66,Presto,https://db-engines.com/en/system/Presto,Relational
+Complete ranking,https://db-engines.com/en/ranking,67,ArangoDB,https://db-engines.com/en/system/ArangoDB,Document store|Graph DBMS|Key-value store
+Complete ranking,https://db-engines.com/en/ranking,68,RethinkDB,https://db-engines.com/en/system/RethinkDB,Document
+Complete ranking,https://db-engines.com/en/ranking,69,Accumulo,https://db-engines.com/en/system/Accumulo,Wide column
+Complete ranking,https://db-engines.com/en/ranking,70,Algolia,https://db-engines.com/en/system/Algolia,Search engine
+Complete ranking,https://db-engines.com/en/ranking,71,MaxDB,https://db-engines.com/en/system/MaxDB,Relational
+Complete ranking,https://db-engines.com/en/ranking,72,Jackrabbit,https://db-engines.com/en/system/Jackrabbit,Content
+Complete ranking,https://db-engines.com/en/ranking,73,Adabas,https://db-engines.com/en/system/Adabas,Multivalue
+Complete ranking,https://db-engines.com/en/ranking,74,Cloudant,https://db-engines.com/en/system/Cloudant,Document
+Complete ranking,https://db-engines.com/en/ranking,75,OpenEdge,https://db-engines.com/en/system/OpenEdge,Relational
+Complete ranking,https://db-engines.com/en/ranking,76,MemSQL ,https://db-engines.com/en/system/MemSQL,Relational DBMS|Document store
+Complete ranking,https://db-engines.com/en/ranking,77,Virtuoso ,https://db-engines.com/en/system/Virtuoso,Graph DBMS|Native XML DBMS|Relational DBMS|RDF store|Document store
+Complete ranking,https://db-engines.com/en/ranking,78,"UniData,UniVerse",https://db-engines.com/en/system/UniData%2CUniVerse,Multivalue
+Complete ranking,https://db-engines.com/en/ranking,79,Graphite,https://db-engines.com/en/system/Graphite,Time Series
+Complete ranking,https://db-engines.com/en/ranking,80,Snowflake ,https://db-engines.com/en/system/Snowflake,Relational
+Complete ranking,https://db-engines.com/en/ranking,81,InterSystems Caché,https://db-engines.com/en/system/InterSystems+Cach%C3%A9,Key-value store|Object oriented DBMS|Relational DBMS|Document store
+Complete ranking,https://db-engines.com/en/ranking,82,TimesTen ,https://db-engines.com/en/system/TimesTen,Relational
+Complete ranking,https://db-engines.com/en/ranking,83,Google Search Appliance,https://db-engines.com/en/system/Google+Search+Appliance,Search engine
+Complete ranking,https://db-engines.com/en/ranking,84,SAP Advantage Database Server,https://db-engines.com/en/system/SAP+Advantage+Database+Server,Relational
+Complete ranking,https://db-engines.com/en/ranking,85,Amazon CloudSearch,https://db-engines.com/en/system/Amazon+CloudSearch,Search engine
+Complete ranking,https://db-engines.com/en/ranking,86,Oracle NoSQL ,https://db-engines.com/en/system/Oracle+NoSQL,Key-value store|Relational DBMS
+Complete ranking,https://db-engines.com/en/ranking,87,Prometheus,https://db-engines.com/en/system/Prometheus,Time Series
+Complete ranking,https://db-engines.com/en/ranking,88,Oracle Berkeley DB,https://db-engines.com/en/system/Oracle+Berkeley+DB,Key-value store|Native XML DBMS
+Complete ranking,https://db-engines.com/en/ranking,89,LevelDB,https://db-engines.com/en/system/LevelDB,Key-value
+Complete ranking,https://db-engines.com/en/ranking,90,PouchDB,https://db-engines.com/en/system/PouchDB,Document
+Complete ranking,https://db-engines.com/en/ranking,91,RRDtool,https://db-engines.com/en/system/RRDtool,Time Series
+Complete ranking,https://db-engines.com/en/ranking,92,Apache Drill,https://db-engines.com/en/system/Apache+Drill,Document store|Relational DBMS
+Complete ranking,https://db-engines.com/en/ranking,93,IMS,https://db-engines.com/en/system/IMS,Navigational
+Complete ranking,https://db-engines.com/en/ranking,94,Percona Server for MySQL ,https://db-engines.com/en/system/Percona+Server+for+MySQL,Relational
+Complete ranking,https://db-engines.com/en/ranking,95,RocksDB,https://db-engines.com/en/system/RocksDB,Key-value
+Complete ranking,https://db-engines.com/en/ranking,96,OmniSci ,https://db-engines.com/en/system/OmniSci,Relational
+Complete ranking,https://db-engines.com/en/ranking,97,ClickHouse,https://db-engines.com/en/system/ClickHouse,Relational
+Complete ranking,https://db-engines.com/en/ranking,98,4D,https://db-engines.com/en/system/4D,Relational
+Complete ranking,https://db-engines.com/en/ranking,99,Infinispan,https://db-engines.com/en/system/Infinispan,Key-value
+Complete ranking,https://db-engines.com/en/ranking,100,CockroachDB,https://db-engines.com/en/system/CockroachDB,Relational
+Complete ranking,https://db-engines.com/en/ranking,101,Oracle Coherence,https://db-engines.com/en/system/Oracle+Coherence,Key-value
+Complete ranking,https://db-engines.com/en/ranking,102,OpenTSDB,https://db-engines.com/en/system/OpenTSDB,Time Series
+Complete ranking,https://db-engines.com/en/ranking,103,GridGain,https://db-engines.com/en/system/GridGain,Key-value store|Relational DBMS
+Complete ranking,https://db-engines.com/en/ranking,104,Amazon SimpleDB,https://db-engines.com/en/system/Amazon+SimpleDB,Key-value
+RDF stores,https://db-engines.com/en/ranking/rdf+store,1,MarkLogic ,https://db-engines.com/en/system/MarkLogic,Document store|Native XML DBMS|RDF store|Search engine
+RDF stores,https://db-engines.com/en/ranking/rdf+store,2,Virtuoso ,https://db-engines.com/en/system/Virtuoso,Graph DBMS|Native XML DBMS|Relational DBMS|RDF store|Document store
+Complete ranking,https://db-engines.com/en/ranking,105,EnterpriseDB ,https://db-engines.com/en/system/EnterpriseDB,Relational DBMS|Document store
+Complete ranking,https://db-engines.com/en/ranking,106,EXASOL,https://db-engines.com/en/system/EXASOL,Relational
+Complete ranking,https://db-engines.com/en/ranking,107,VoltDB,https://db-engines.com/en/system/VoltDB,Relational
+Complete ranking,https://db-engines.com/en/ranking,108,Google Cloud Spanner ,https://db-engines.com/en/system/Google+Cloud+Spanner,Relational
+RDF stores,https://db-engines.com/en/ranking/rdf+store,3,Apache Jena - TDB,https://db-engines.com/en/system/Apache+Jena+-+TDB,RDF
+RDF stores,https://db-engines.com/en/ranking/rdf+store,4,Amazon Neptune,https://db-engines.com/en/system/Amazon+Neptune,Graph DBMS|RDF store
+RDF stores,https://db-engines.com/en/ranking/rdf+store,5,GraphDB ,https://db-engines.com/en/system/GraphDB,Graph DBMS|RDF store
+RDF stores,https://db-engines.com/en/ranking/rdf+store,6,AllegroGraph ,https://db-engines.com/en/system/AllegroGraph,Graph DBMS|RDF store
+RDF stores,https://db-engines.com/en/ranking/rdf+store,7,Stardog,https://db-engines.com/en/system/Stardog,Graph DBMS|RDF store
+RDF stores,https://db-engines.com/en/ranking/rdf+store,8,Blazegraph,https://db-engines.com/en/system/Blazegraph,Graph DBMS|RDF store
+Complete ranking,https://db-engines.com/en/ranking,109,CloudKit,https://db-engines.com/en/system/CloudKit,Document
+Complete ranking,https://db-engines.com/en/ranking,110,Datomic,https://db-engines.com/en/system/Datomic,Relational
+Complete ranking,https://db-engines.com/en/ranking,111,IBM Db2 warehouse,https://db-engines.com/en/system/IBM+Db2+warehouse,Relational
+Complete ranking,https://db-engines.com/en/ranking,112,MonetDB ,https://db-engines.com/en/system/MonetDB,Relational DBMS|Document store
+Complete ranking,https://db-engines.com/en/ranking,113,Google Cloud Bigtable ,https://db-engines.com/en/system/Google+Cloud+Bigtable,Wide column
+RDF stores,https://db-engines.com/en/ranking/rdf+store,9,Algebraix,https://db-engines.com/en/system/Algebraix,RDF
+RDF stores,https://db-engines.com/en/ranking/rdf+store,10,Redland,https://db-engines.com/en/system/Redland,RDF
+RDF stores,https://db-engines.com/en/ranking/rdf+store,11,RDF4J,https://db-engines.com/en/system/RDF4J,RDF
+RDF stores,https://db-engines.com/en/ranking/rdf+store,12,4store,https://db-engines.com/en/system/4store,RDF
+Complete ranking,https://db-engines.com/en/ranking,114,Geode,https://db-engines.com/en/system/Geode,Key-value
+Complete ranking,https://db-engines.com/en/ranking,115,Versant Object Database,https://db-engines.com/en/system/Versant+Object+Database,Object oriented
+Complete ranking,https://db-engines.com/en/ranking,116,Red Brick,https://db-engines.com/en/system/Red+Brick,Relational
+Complete ranking,https://db-engines.com/en/ranking,117,Mnesia,https://db-engines.com/en/system/Mnesia,Document
+RDF stores,https://db-engines.com/en/ranking/rdf+store,13,CubicWeb,https://db-engines.com/en/system/CubicWeb,RDF
+RDF stores,https://db-engines.com/en/ranking/rdf+store,14,RedStore,https://db-engines.com/en/system/RedStore,RDF
+RDF stores,https://db-engines.com/en/ranking/rdf+store,15,Mulgara,https://db-engines.com/en/system/Mulgara,RDF
+Complete ranking,https://db-engines.com/en/ranking,118,Apache Jena - TDB,https://db-engines.com/en/system/Apache+Jena+-+TDB,RDF
+Complete ranking,https://db-engines.com/en/ranking,119,Druid,https://db-engines.com/en/system/Druid,Relational DBMS|Time Series DBMS
+RDF stores,https://db-engines.com/en/ranking/rdf+store,16,Strabon,https://db-engines.com/en/system/Strabon,RDF
+RDF stores,https://db-engines.com/en/ranking/rdf+store,17,BrightstarDB,https://db-engines.com/en/system/BrightstarDB,RDF
+RDF stores,https://db-engines.com/en/ranking/rdf+store,18,Dydra,https://db-engines.com/en/system/Dydra,RDF
+RDF stores,https://db-engines.com/en/ranking/rdf+store,19,SparkleDB,https://db-engines.com/en/system/SparkleDB,RDF
+Complete ranking,https://db-engines.com/en/ranking,120,mSQL,https://db-engines.com/en/system/mSQL,Relational
+Complete ranking,https://db-engines.com/en/ranking,121,TiDB ,https://db-engines.com/en/system/TiDB,Relational DBMS|Document store
+Complete ranking,https://db-engines.com/en/ranking,122,ScyllaDB ,https://db-engines.com/en/system/ScyllaDB,Wide column
+Complete ranking,https://db-engines.com/en/ranking,123,Db4o,https://db-engines.com/en/system/Db4o,Object oriented
+Complete ranking,https://db-engines.com/en/ranking,124,ObjectStore,https://db-engines.com/en/system/ObjectStore,Object oriented
+Complete ranking,https://db-engines.com/en/ranking,125,jBASE ,https://db-engines.com/en/system/jBASE,Multivalue
+Complete ranking,https://db-engines.com/en/ranking,126,Datameer,https://db-engines.com/en/system/Datameer,Document
+Complete ranking,https://db-engines.com/en/ranking,127,Amazon Neptune,https://db-engines.com/en/system/Amazon+Neptune,Graph DBMS|RDF store
+Complete ranking,https://db-engines.com/en/ranking,128,Tibero,https://db-engines.com/en/system/Tibero,Relational
+Complete ranking,https://db-engines.com/en/ranking,129,JanusGraph,https://db-engines.com/en/system/JanusGraph,Graph
+Complete ranking,https://db-engines.com/en/ranking,130,SQLBase,https://db-engines.com/en/system/SQLBase,Relational
+Complete ranking,https://db-engines.com/en/ranking,131,BaseX,https://db-engines.com/en/system/BaseX,Native XML
+Complete ranking,https://db-engines.com/en/ranking,132,Oracle Rdb,https://db-engines.com/en/system/Oracle+Rdb,Relational
+Complete ranking,https://db-engines.com/en/ranking,133,Empress,https://db-engines.com/en/system/Empress,Relational
+Complete ranking,https://db-engines.com/en/ranking,134,HFSQL,https://db-engines.com/en/system/HFSQL,Relational
+Complete ranking,https://db-engines.com/en/ranking,135,WiredTiger,https://db-engines.com/en/system/WiredTiger,Key-value
+Complete ranking,https://db-engines.com/en/ranking,136,NCache ,https://db-engines.com/en/system/NCache,Key-value
+Complete ranking,https://db-engines.com/en/ranking,137,1010data,https://db-engines.com/en/system/1010data,Relational
+Complete ranking,https://db-engines.com/en/ranking,138,Giraph,https://db-engines.com/en/system/Giraph,Graph
+Complete ranking,https://db-engines.com/en/ranking,139,Altibase,https://db-engines.com/en/system/Altibase,Relational
+Complete ranking,https://db-engines.com/en/ranking,140,Cubrid,https://db-engines.com/en/system/Cubrid,Relational
+Complete ranking,https://db-engines.com/en/ranking,141,FoundationDB,https://db-engines.com/en/system/FoundationDB,Document store|Key-value store|Relational DBMS
+Complete ranking,https://db-engines.com/en/ranking,142,Infobright,https://db-engines.com/en/system/Infobright,Relational
+Complete ranking,https://db-engines.com/en/ranking,143,Matisse,https://db-engines.com/en/system/Matisse,Object oriented
+Complete ranking,https://db-engines.com/en/ranking,144,Tarantool,https://db-engines.com/en/system/Tarantool,Key-value
+Complete ranking,https://db-engines.com/en/ranking,145,NuoDB ,https://db-engines.com/en/system/NuoDB,Relational
+Complete ranking,https://db-engines.com/en/ranking,146,Dgraph ,https://db-engines.com/en/system/Dgraph,Graph
+Complete ranking,https://db-engines.com/en/ranking,147,IDMS,https://db-engines.com/en/system/IDMS,Navigational
+Complete ranking,https://db-engines.com/en/ranking,148,Model 204,https://db-engines.com/en/system/Model+204,Multivalue
+Complete ranking,https://db-engines.com/en/ranking,149,LiteDB,https://db-engines.com/en/system/LiteDB,Document
+Complete ranking,https://db-engines.com/en/ranking,150,NonStop SQL,https://db-engines.com/en/system/NonStop+SQL,Relational
+Complete ranking,https://db-engines.com/en/ranking,151,DataEase,https://db-engines.com/en/system/DataEase,Relational
+Complete ranking,https://db-engines.com/en/ranking,152,GT.M,https://db-engines.com/en/system/GT.M,Key-value
+Complete ranking,https://db-engines.com/en/ranking,153,GraphDB ,https://db-engines.com/en/system/GraphDB,Graph DBMS|RDF store
+Complete ranking,https://db-engines.com/en/ranking,154,HAWQ,https://db-engines.com/en/system/HAWQ,Relational
+Complete ranking,https://db-engines.com/en/ranking,155,TimescaleDB ,https://db-engines.com/en/system/TimescaleDB,Time Series DBMS|Relational DBMS
+Complete ranking,https://db-engines.com/en/ranking,156,Sedna,https://db-engines.com/en/system/Sedna,Native XML
+Complete ranking,https://db-engines.com/en/ranking,157,Citus,https://db-engines.com/en/system/Citus,Relational DBMS|Document store
+Complete ranking,https://db-engines.com/en/ranking,158,XAP,https://db-engines.com/en/system/XAP,Key-value
+Complete ranking,https://db-engines.com/en/ranking,159,DBISAM,https://db-engines.com/en/system/DBISAM,Relational
+Complete ranking,https://db-engines.com/en/ranking,160,AllegroGraph ,https://db-engines.com/en/system/AllegroGraph,Graph DBMS|RDF store
+Complete ranking,https://db-engines.com/en/ranking,161,Objectivity/DB,https://db-engines.com/en/system/Objectivity%2FDB,Object oriented
+Complete ranking,https://db-engines.com/en/ranking,162,BigchainDB,https://db-engines.com/en/system/BigchainDB,Document
+Complete ranking,https://db-engines.com/en/ranking,163,Kognitio,https://db-engines.com/en/system/Kognitio,Relational
+Complete ranking,https://db-engines.com/en/ranking,164,D3,https://db-engines.com/en/system/D3,Multivalue
+Complete ranking,https://db-engines.com/en/ranking,165,ZODB,https://db-engines.com/en/system/ZODB,Key-value
+Complete ranking,https://db-engines.com/en/ranking,166,Stardog,https://db-engines.com/en/system/Stardog,Graph DBMS|RDF store
+Complete ranking,https://db-engines.com/en/ranking,167,TigerGraph ,https://db-engines.com/en/system/TigerGraph,Graph
+Complete ranking,https://db-engines.com/en/ranking,168,R:BASE,https://db-engines.com/en/system/R%3ABASE,Relational
+Complete ranking,https://db-engines.com/en/ranking,169,solidDB,https://db-engines.com/en/system/solidDB,Relational
+Complete ranking,https://db-engines.com/en/ranking,170,Xapian,https://db-engines.com/en/system/Xapian,Search engine
+Complete ranking,https://db-engines.com/en/ranking,171,SQL.JS,https://db-engines.com/en/system/SQL.JS,Relational
+Complete ranking,https://db-engines.com/en/ranking,172,Actian Vector,https://db-engines.com/en/system/Actian+Vector,Relational
+Complete ranking,https://db-engines.com/en/ranking,173,Datacom/DB,https://db-engines.com/en/system/Datacom%2FDB,Relational
+Complete ranking,https://db-engines.com/en/ranking,174,Clustrix,https://db-engines.com/en/system/Clustrix,Relational
+Complete ranking,https://db-engines.com/en/ranking,175,MapR-DB,https://db-engines.com/en/system/MapR-DB,Document store|Wide column store
+Complete ranking,https://db-engines.com/en/ranking,176,ScaleArc,https://db-engines.com/en/system/ScaleArc,Relational
+Complete ranking,https://db-engines.com/en/ranking,177,WebSphere eXtreme Scale,https://db-engines.com/en/system/WebSphere+eXtreme+Scale,Key-value
+Complete ranking,https://db-engines.com/en/ranking,178,CrateDB ,https://db-engines.com/en/system/CrateDB,Relational DBMS|Search engine|Document store
+Complete ranking,https://db-engines.com/en/ranking,179,Splice Machine,https://db-engines.com/en/system/Splice+Machine,Relational
+Complete ranking,https://db-engines.com/en/ranking,180,FrontBase,https://db-engines.com/en/system/FrontBase,Relational
+Search engines,https://db-engines.com/en/ranking/search+engine,1,Elasticsearch ,https://db-engines.com/en/system/Elasticsearch,Search engine|Document store
+Search engines,https://db-engines.com/en/ranking/search+engine,2,Splunk,https://db-engines.com/en/system/Splunk,Search engine
+Complete ranking,https://db-engines.com/en/ranking,181,eXist-db,https://db-engines.com/en/system/eXist-db,Native XML
+Complete ranking,https://db-engines.com/en/ranking,182,NexusDB,https://db-engines.com/en/system/NexusDB,Relational
+Complete ranking,https://db-engines.com/en/ranking,183,SciDB,https://db-engines.com/en/system/SciDB,Multivalue
+Search engines,https://db-engines.com/en/ranking/search+engine,3,Solr,https://db-engines.com/en/system/Solr,Search engine
+Search engines,https://db-engines.com/en/ranking/search+engine,4,MarkLogic ,https://db-engines.com/en/system/MarkLogic,Document store|Native XML DBMS|RDF store|Search engine
+Search engines,https://db-engines.com/en/ranking/search+engine,5,Sphinx,https://db-engines.com/en/system/Sphinx,Search engine
+Search engines,https://db-engines.com/en/ranking/search+engine,6,Microsoft Azure Search,https://db-engines.com/en/system/Microsoft+Azure+Search,Search engine
+Complete ranking,https://db-engines.com/en/ranking,184,ObjectDB,https://db-engines.com/en/system/ObjectDB,Object oriented
+Complete ranking,https://db-engines.com/en/ranking,185,Event Store,https://db-engines.com/en/system/Event+Store,Event
+Complete ranking,https://db-engines.com/en/ranking,186,KairosDB,https://db-engines.com/en/system/KairosDB,Time Series
+Complete ranking,https://db-engines.com/en/ranking,187,GemStone/S,https://db-engines.com/en/system/GemStone%2FS,Object oriented
+Search engines,https://db-engines.com/en/ranking/search+engine,7,Algolia,https://db-engines.com/en/system/Algolia,Search engine
+Search engines,https://db-engines.com/en/ranking/search+engine,8,Google Search Appliance,https://db-engines.com/en/system/Google+Search+Appliance,Search engine
+Search engines,https://db-engines.com/en/ranking/search+engine,9,Amazon CloudSearch,https://db-engines.com/en/system/Amazon+CloudSearch,Search engine
+Search engines,https://db-engines.com/en/ranking/search+engine,10,Xapian,https://db-engines.com/en/system/Xapian,Search engine
+Complete ranking,https://db-engines.com/en/ranking,188,GBase ,https://db-engines.com/en/system/GBase,Relational
+Complete ranking,https://db-engines.com/en/ranking,189,InterSystems IRIS ,https://db-engines.com/en/system/InterSystems+IRIS,Document store|Key-value store|Object oriented DBMS|Relational DBMS
+Complete ranking,https://db-engines.com/en/ranking,190,OpenBase,https://db-engines.com/en/system/OpenBase,Relational
+Search engines,https://db-engines.com/en/ranking/search+engine,11,CrateDB ,https://db-engines.com/en/system/CrateDB,Relational DBMS|Search engine|Document store
+Search engines,https://db-engines.com/en/ranking/search+engine,12,SearchBlox,https://db-engines.com/en/system/SearchBlox,Search engine
+Complete ranking,https://db-engines.com/en/ranking,191,Tokyo Cabinet,https://db-engines.com/en/system/Tokyo+Cabinet,Key-value
+Complete ranking,https://db-engines.com/en/ranking,192,Kinetica,https://db-engines.com/en/system/Kinetica,Relational
+Search engines,https://db-engines.com/en/ranking/search+engine,13,Manticore Search,https://db-engines.com/en/system/Manticore+Search,Search engine
+Search engines,https://db-engines.com/en/ranking/search+engine,14,DBSight,https://db-engines.com/en/system/DBSight,Search engine
+Search engines,https://db-engines.com/en/ranking/search+engine,15,searchxml,https://db-engines.com/en/system/searchxml,Native XML DBMS|Search engine
+Complete ranking,https://db-engines.com/en/ranking,193,BoltDB,https://db-engines.com/en/system/BoltDB,Key-value
+Complete ranking,https://db-engines.com/en/ranking,194,Sqrrl,https://db-engines.com/en/system/Sqrrl,Document store|Graph DBMS|Key-value store|Wide column store
+Complete ranking,https://db-engines.com/en/ranking,195,MapDB,https://db-engines.com/en/system/MapDB,Key-value
+Complete ranking,https://db-engines.com/en/ranking,196,VistaDB,https://db-engines.com/en/system/VistaDB,Relational
+Search engines,https://db-engines.com/en/ranking/search+engine,16,Exorbyte,https://db-engines.com/en/system/Exorbyte,Search engine
+Search engines,https://db-engines.com/en/ranking/search+engine,17,FinchDB,https://db-engines.com/en/system/FinchDB,Document store|Search engine
+Search engines,https://db-engines.com/en/ranking/search+engine,18,Indica,https://db-engines.com/en/system/Indica,Search engine
+Complete ranking,https://db-engines.com/en/ranking,197,Percona Server for MongoDB ,https://db-engines.com/en/system/Percona+Server+for+MongoDB,Document
+Complete ranking,https://db-engines.com/en/ranking,198,Graph Engine,https://db-engines.com/en/system/Graph+Engine,Graph DBMS|Key-value store
+Complete ranking,https://db-engines.com/en/ranking,199,Blazegraph,https://db-engines.com/en/system/Blazegraph,Graph DBMS|RDF store
+Complete ranking,https://db-engines.com/en/ranking,200,ObjectBox,https://db-engines.com/en/system/ObjectBox,Object oriented
+Complete ranking,https://db-engines.com/en/ranking,201,AlaSQL,https://db-engines.com/en/system/AlaSQL,Document store|Relational DBMS
+Complete ranking,https://db-engines.com/en/ranking,202,OpenInsight,https://db-engines.com/en/system/OpenInsight,Multivalue
+Complete ranking,https://db-engines.com/en/ranking,203,Northgate Reality,https://db-engines.com/en/system/Northgate+Reality,Multivalue
+Complete ranking,https://db-engines.com/en/ranking,204,Perst,https://db-engines.com/en/system/Perst,Object oriented
+Complete ranking,https://db-engines.com/en/ranking,205,SQream DB,https://db-engines.com/en/system/SQream+DB,Relational
+Complete ranking,https://db-engines.com/en/ranking,206,Tokyo Tyrant,https://db-engines.com/en/system/Tokyo+Tyrant,Key-value
+Complete ranking,https://db-engines.com/en/ranking,207,c-treeACE ,https://db-engines.com/en/system/c-treeACE,Key-value store|Relational DBMS
+Complete ranking,https://db-engines.com/en/ranking,208,Rasdaman,https://db-engines.com/en/system/Rasdaman,Multivalue
+Complete ranking,https://db-engines.com/en/ranking,209,Postgres-XL,https://db-engines.com/en/system/Postgres-XL,Relational DBMS|Document store
+Complete ranking,https://db-engines.com/en/ranking,210,Algebraix,https://db-engines.com/en/system/Algebraix,RDF
+Complete ranking,https://db-engines.com/en/ranking,211,Trafodion,https://db-engines.com/en/system/Trafodion,Relational
+Complete ranking,https://db-engines.com/en/ranking,212,eXtremeDB ,https://db-engines.com/en/system/eXtremeDB,Relational DBMS|Time Series DBMS
+Complete ranking,https://db-engines.com/en/ranking,213,Redland,https://db-engines.com/en/system/Redland,RDF
+Complete ranking,https://db-engines.com/en/ranking,214,InfiniteGraph,https://db-engines.com/en/system/InfiniteGraph,Graph
+Complete ranking,https://db-engines.com/en/ranking,215,Project Voldemort,https://db-engines.com/en/system/Project+Voldemort,Key-value
+Complete ranking,https://db-engines.com/en/ranking,216,Actian PSQL,https://db-engines.com/en/system/Actian+PSQL,Relational
+Complete ranking,https://db-engines.com/en/ranking,217,RDF4J,https://db-engines.com/en/system/RDF4J,RDF
+Complete ranking,https://db-engines.com/en/ranking,218,Jade,https://db-engines.com/en/system/Jade,Object oriented
+Complete ranking,https://db-engines.com/en/ranking,219,LokiJS,https://db-engines.com/en/system/LokiJS,Document
+Complete ranking,https://db-engines.com/en/ranking,220,Starcounter,https://db-engines.com/en/system/Starcounter,Object oriented
+Complete ranking,https://db-engines.com/en/ranking,221,Hibari,https://db-engines.com/en/system/Hibari,Key-value
+Complete ranking,https://db-engines.com/en/ranking,222,FaunaDB ,https://db-engines.com/en/system/FaunaDB,Document store|Graph DBMS|Relational DBMS|Time Series DBMS
+Complete ranking,https://db-engines.com/en/ranking,223,4store,https://db-engines.com/en/system/4store,RDF
+Complete ranking,https://db-engines.com/en/ranking,224,Scalaris,https://db-engines.com/en/system/Scalaris,Key-value
+Complete ranking,https://db-engines.com/en/ranking,225,Alibaba Cloud MaxCompute,https://db-engines.com/en/system/Alibaba+Cloud+MaxCompute,Relational
+Complete ranking,https://db-engines.com/en/ranking,226,Raima Database Manager,https://db-engines.com/en/system/Raima+Database+Manager,Relational
+Graph DBMS,https://db-engines.com/en/ranking/graph+dbms,1,Neo4j ,https://db-engines.com/en/system/Neo4j,Graph
+Graph DBMS,https://db-engines.com/en/ranking/graph+dbms,2,Microsoft Azure Cosmos DB ,https://db-engines.com/en/system/Microsoft+Azure+Cosmos+DB,Document store|Graph DBMS|Key-value store|Wide column store
+Complete ranking,https://db-engines.com/en/ranking,227,PipelineDB,https://db-engines.com/en/system/PipelineDB,Relational
+Complete ranking,https://db-engines.com/en/ranking,228,YugaByte DB,https://db-engines.com/en/system/YugaByte+DB,Document store|Key-value store|Wide column store
+Complete ranking,https://db-engines.com/en/ranking,229,ModeShape,https://db-engines.com/en/system/ModeShape,Content
+Complete ranking,https://db-engines.com/en/ranking,230,Tajo,https://db-engines.com/en/system/Tajo,Relational
+Time Series DBMS,https://db-engines.com/en/ranking/time+series+dbms,1,InfluxDB ,https://db-engines.com/en/system/InfluxDB,Time Series
+Time Series DBMS,https://db-engines.com/en/ranking/time+series+dbms,2,Kdb+ ,https://db-engines.com/en/system/Kdb%2B,Time Series DBMS|Relational DBMS
+Graph DBMS,https://db-engines.com/en/ranking/graph+dbms,3,OrientDB,https://db-engines.com/en/system/OrientDB,Document store|Graph DBMS|Key-value store
+Graph DBMS,https://db-engines.com/en/ranking/graph+dbms,4,ArangoDB,https://db-engines.com/en/system/ArangoDB,Document store|Graph DBMS|Key-value store
+Graph DBMS,https://db-engines.com/en/ranking/graph+dbms,5,Virtuoso ,https://db-engines.com/en/system/Virtuoso,Graph DBMS|Native XML DBMS|Relational DBMS|RDF store|Document store
+Graph DBMS,https://db-engines.com/en/ranking/graph+dbms,6,Amazon Neptune,https://db-engines.com/en/system/Amazon+Neptune,Graph DBMS|RDF store
+Complete ranking,https://db-engines.com/en/ranking,231,Amazon Timestream,https://db-engines.com/en/system/Amazon+Timestream,Time Series
+Complete ranking,https://db-engines.com/en/ranking,232,Alibaba Cloud HybridDB,https://db-engines.com/en/system/Alibaba+Cloud+HybridDB,Relational
+Complete ranking,https://db-engines.com/en/ranking,233,Sequoiadb ,https://db-engines.com/en/system/Sequoiadb,Document store|Relational DBMS
+Complete ranking,https://db-engines.com/en/ranking,234,GridDB ,https://db-engines.com/en/system/GridDB,Key-value store|Time Series DBMS|Relational DBMS
+Complete ranking,https://db-engines.com/en/ranking,235,Mimer SQL,https://db-engines.com/en/system/Mimer+SQL,Relational
+Time Series DBMS,https://db-engines.com/en/ranking/time+series+dbms,3,Graphite,https://db-engines.com/en/system/Graphite,Time Series
+Time Series DBMS,https://db-engines.com/en/ranking/time+series+dbms,4,Prometheus,https://db-engines.com/en/system/Prometheus,Time Series
+Time Series DBMS,https://db-engines.com/en/ranking/time+series+dbms,5,RRDtool,https://db-engines.com/en/system/RRDtool,Time Series
+Graph DBMS,https://db-engines.com/en/ranking/graph+dbms,7,JanusGraph,https://db-engines.com/en/system/JanusGraph,Graph
+Graph DBMS,https://db-engines.com/en/ranking/graph+dbms,8,Giraph,https://db-engines.com/en/system/Giraph,Graph
+Graph DBMS,https://db-engines.com/en/ranking/graph+dbms,9,Dgraph ,https://db-engines.com/en/system/Dgraph,Graph
+Graph DBMS,https://db-engines.com/en/ranking/graph+dbms,10,GraphDB ,https://db-engines.com/en/system/GraphDB,Graph DBMS|RDF store
+Complete ranking,https://db-engines.com/en/ranking,236,SearchBlox,https://db-engines.com/en/system/SearchBlox,Search engine
+Complete ranking,https://db-engines.com/en/ranking,237,c-treeEDGE ,https://db-engines.com/en/system/c-treeEDGE,Key-value store|Relational DBMS
+Complete ranking,https://db-engines.com/en/ranking,238,FlockDB,https://db-engines.com/en/system/FlockDB,Graph
+Complete ranking,https://db-engines.com/en/ranking,239,Kyoto Cabinet,https://db-engines.com/en/system/Kyoto+Cabinet,Key-value
+Complete ranking,https://db-engines.com/en/ranking,240,OpenQM,https://db-engines.com/en/system/OpenQM,Multivalue
+Complete ranking,https://db-engines.com/en/ranking,241,SnappyData,https://db-engines.com/en/system/SnappyData,Relational
+Time Series DBMS,https://db-engines.com/en/ranking/time+series+dbms,6,OpenTSDB,https://db-engines.com/en/system/OpenTSDB,Time Series
+Time Series DBMS,https://db-engines.com/en/ranking/time+series+dbms,7,Druid,https://db-engines.com/en/system/Druid,Relational DBMS|Time Series DBMS
+Time Series DBMS,https://db-engines.com/en/ranking/time+series+dbms,8,TimescaleDB ,https://db-engines.com/en/system/TimescaleDB,Time Series DBMS|Relational DBMS
+Time Series DBMS,https://db-engines.com/en/ranking/time+series+dbms,9,KairosDB,https://db-engines.com/en/system/KairosDB,Time Series
+Time Series DBMS,https://db-engines.com/en/ranking/time+series+dbms,10,eXtremeDB ,https://db-engines.com/en/system/eXtremeDB,Relational DBMS|Time Series DBMS
+Time Series DBMS,https://db-engines.com/en/ranking/time+series+dbms,11,FaunaDB ,https://db-engines.com/en/system/FaunaDB,Document store|Graph DBMS|Relational DBMS|Time Series DBMS
+Graph DBMS,https://db-engines.com/en/ranking/graph+dbms,11,AllegroGraph ,https://db-engines.com/en/system/AllegroGraph,Graph DBMS|RDF store
+Graph DBMS,https://db-engines.com/en/ranking/graph+dbms,12,Stardog,https://db-engines.com/en/system/Stardog,Graph DBMS|RDF store
+Graph DBMS,https://db-engines.com/en/ranking/graph+dbms,13,TigerGraph ,https://db-engines.com/en/system/TigerGraph,Graph
+Graph DBMS,https://db-engines.com/en/ranking/graph+dbms,14,Sqrrl,https://db-engines.com/en/system/Sqrrl,Document store|Graph DBMS|Key-value store|Wide column store
+Graph DBMS,https://db-engines.com/en/ranking/graph+dbms,15,Graph Engine,https://db-engines.com/en/system/Graph+Engine,Graph DBMS|Key-value store
+Complete ranking,https://db-engines.com/en/ranking,242,Comdb2,https://db-engines.com/en/system/Comdb2,Relational
+Complete ranking,https://db-engines.com/en/ranking,243,Heroic,https://db-engines.com/en/system/Heroic,Time Series
+Complete ranking,https://db-engines.com/en/ranking,244,IBM Db2 Event Store,https://db-engines.com/en/system/IBM+Db2+Event+Store,Event Store|Time Series DBMS
+Complete ranking,https://db-engines.com/en/ranking,245,Riak TS,https://db-engines.com/en/system/Riak+TS,Time Series
+Time Series DBMS,https://db-engines.com/en/ranking/time+series+dbms,12,Amazon Timestream,https://db-engines.com/en/system/Amazon+Timestream,Time Series
+Time Series DBMS,https://db-engines.com/en/ranking/time+series+dbms,13,GridDB ,https://db-engines.com/en/system/GridDB,Key-value store|Time Series DBMS|Relational DBMS
+Time Series DBMS,https://db-engines.com/en/ranking/time+series+dbms,14,Heroic,https://db-engines.com/en/system/Heroic,Time Series
+Time Series DBMS,https://db-engines.com/en/ranking/time+series+dbms,15,IBM Db2 Event Store,https://db-engines.com/en/system/IBM+Db2+Event+Store,Event Store|Time Series DBMS
+Time Series DBMS,https://db-engines.com/en/ranking/time+series+dbms,16,Riak TS,https://db-engines.com/en/system/Riak+TS,Time Series
+Time Series DBMS,https://db-engines.com/en/ranking/time+series+dbms,17,Axibase,https://db-engines.com/en/system/Axibase,Time Series
+Object oriented DBMS,https://db-engines.com/en/ranking/object+oriented+dbms,1,InterSystems Caché,https://db-engines.com/en/system/InterSystems+Cach%C3%A9,Key-value store|Object oriented DBMS|Relational DBMS|Document store
+Object oriented DBMS,https://db-engines.com/en/ranking/object+oriented+dbms,2,Versant Object Database,https://db-engines.com/en/system/Versant+Object+Database,Object oriented
+Graph DBMS,https://db-engines.com/en/ranking/graph+dbms,16,Blazegraph,https://db-engines.com/en/system/Blazegraph,Graph DBMS|RDF store
+Graph DBMS,https://db-engines.com/en/ranking/graph+dbms,17,InfiniteGraph,https://db-engines.com/en/system/InfiniteGraph,Graph
+Graph DBMS,https://db-engines.com/en/ranking/graph+dbms,18,FaunaDB ,https://db-engines.com/en/system/FaunaDB,Document store|Graph DBMS|Relational DBMS|Time Series DBMS
+Graph DBMS,https://db-engines.com/en/ranking/graph+dbms,19,FlockDB,https://db-engines.com/en/system/FlockDB,Graph
+Graph DBMS,https://db-engines.com/en/ranking/graph+dbms,20,AgensGraph ,https://db-engines.com/en/system/AgensGraph,Graph DBMS|Relational DBMS
+Complete ranking,https://db-engines.com/en/ranking,246,ElevateDB,https://db-engines.com/en/system/ElevateDB,Relational
+Complete ranking,https://db-engines.com/en/ranking,247,AgensGraph ,https://db-engines.com/en/system/AgensGraph,Graph DBMS|Relational DBMS
+Complete ranking,https://db-engines.com/en/ranking,248,InfoGrid,https://db-engines.com/en/system/InfoGrid,Graph
+Complete ranking,https://db-engines.com/en/ranking,249,Axibase,https://db-engines.com/en/system/Axibase,Time Series
+Complete ranking,https://db-engines.com/en/ranking,250,CubicWeb,https://db-engines.com/en/system/CubicWeb,RDF
+Complete ranking,https://db-engines.com/en/ranking,251,AnzoGraph,https://db-engines.com/en/system/AnzoGraph,Graph DBMS|RDF store
+Time Series DBMS,https://db-engines.com/en/ranking/time+series+dbms,18,Warp 10,https://db-engines.com/en/system/Warp+10,Time Series
+Time Series DBMS,https://db-engines.com/en/ranking/time+series+dbms,19,Hawkular Metrics,https://db-engines.com/en/system/Hawkular+Metrics,Time Series
+Time Series DBMS,https://db-engines.com/en/ranking/time+series+dbms,20,Quasardb ,https://db-engines.com/en/system/Quasardb,Time Series
+Object oriented DBMS,https://db-engines.com/en/ranking/object+oriented+dbms,3,Db4o,https://db-engines.com/en/system/Db4o,Object oriented
+Object oriented DBMS,https://db-engines.com/en/ranking/object+oriented+dbms,4,ObjectStore,https://db-engines.com/en/system/ObjectStore,Object oriented
+Object oriented DBMS,https://db-engines.com/en/ranking/object+oriented+dbms,5,Matisse,https://db-engines.com/en/system/Matisse,Object oriented
+Object oriented DBMS,https://db-engines.com/en/ranking/object+oriented+dbms,6,Objectivity/DB,https://db-engines.com/en/system/Objectivity%2FDB,Object oriented
+Graph DBMS,https://db-engines.com/en/ranking/graph+dbms,21,InfoGrid,https://db-engines.com/en/system/InfoGrid,Graph
+Graph DBMS,https://db-engines.com/en/ranking/graph+dbms,22,AnzoGraph,https://db-engines.com/en/system/AnzoGraph,Graph DBMS|RDF store
+Graph DBMS,https://db-engines.com/en/ranking/graph+dbms,23,HyperGraphDB,https://db-engines.com/en/system/HyperGraphDB,Graph
+Graph DBMS,https://db-engines.com/en/ranking/graph+dbms,24,Sparksee,https://db-engines.com/en/system/Sparksee,Graph
+Graph DBMS,https://db-engines.com/en/ranking/graph+dbms,25,GRAKN.AI ,https://db-engines.com/en/system/GRAKN.AI,Graph DBMS|Relational DBMS
+Complete ranking,https://db-engines.com/en/ranking,252,HyperGraphDB,https://db-engines.com/en/system/HyperGraphDB,Graph
+Complete ranking,https://db-engines.com/en/ranking,253,Alibaba Cloud Table Store,https://db-engines.com/en/system/Alibaba+Cloud+Table+Store,Wide column
+Complete ranking,https://db-engines.com/en/ranking,254,Lovefield,https://db-engines.com/en/system/Lovefield,Relational
+Time Series DBMS,https://db-engines.com/en/ranking/time+series+dbms,21,Blueflood,https://db-engines.com/en/system/Blueflood,Time Series
+Time Series DBMS,https://db-engines.com/en/ranking/time+series+dbms,22,TempoIQ,https://db-engines.com/en/system/TempoIQ,Time Series
+Time Series DBMS,https://db-engines.com/en/ranking/time+series+dbms,23,SiriDB,https://db-engines.com/en/system/SiriDB,Time Series
+Time Series DBMS,https://db-engines.com/en/ranking/time+series+dbms,24,IRONdb ,https://db-engines.com/en/system/IRONdb,Time Series
+Object oriented DBMS,https://db-engines.com/en/ranking/object+oriented+dbms,7,ObjectDB,https://db-engines.com/en/system/ObjectDB,Object oriented
+Object oriented DBMS,https://db-engines.com/en/ranking/object+oriented+dbms,8,GemStone/S,https://db-engines.com/en/system/GemStone%2FS,Object oriented
+Object oriented DBMS,https://db-engines.com/en/ranking/object+oriented+dbms,9,InterSystems IRIS ,https://db-engines.com/en/system/InterSystems+IRIS,Document store|Key-value store|Object oriented DBMS|Relational DBMS
+Object oriented DBMS,https://db-engines.com/en/ranking/object+oriented+dbms,10,ObjectBox,https://db-engines.com/en/system/ObjectBox,Object oriented
+Graph DBMS,https://db-engines.com/en/ranking/graph+dbms,26,GraphBase,https://db-engines.com/en/system/GraphBase,Graph
+Graph DBMS,https://db-engines.com/en/ranking/graph+dbms,27,TinkerGraph,https://db-engines.com/en/system/TinkerGraph,Graph
+Graph DBMS,https://db-engines.com/en/ranking/graph+dbms,28,VelocityDB,https://db-engines.com/en/system/VelocityDB,Graph DBMS|Object oriented DBMS
+Graph DBMS,https://db-engines.com/en/ranking/graph+dbms,29,HGraphDB,https://db-engines.com/en/system/HGraphDB,Graph
+Graph DBMS,https://db-engines.com/en/ranking/graph+dbms,30,Memgraph ,https://db-engines.com/en/system/Memgraph,Graph
+Complete ranking,https://db-engines.com/en/ranking,255,STSdb,https://db-engines.com/en/system/STSdb,Key-value
+Complete ranking,https://db-engines.com/en/ranking,256,TransLattice,https://db-engines.com/en/system/TransLattice,Relational
+Time Series DBMS,https://db-engines.com/en/ranking/time+series+dbms,25,Machbase,https://db-engines.com/en/system/Machbase,Time Series
+Time Series DBMS,https://db-engines.com/en/ranking/time+series+dbms,26,DolphinDB,https://db-engines.com/en/system/DolphinDB,Time Series
+Time Series DBMS,https://db-engines.com/en/ranking/time+series+dbms,27,Newts,https://db-engines.com/en/system/Newts,Time Series
+Object oriented DBMS,https://db-engines.com/en/ranking/object+oriented+dbms,11,Perst,https://db-engines.com/en/system/Perst,Object oriented
+Object oriented DBMS,https://db-engines.com/en/ranking/object+oriented+dbms,12,Jade,https://db-engines.com/en/system/Jade,Object oriented
+Object oriented DBMS,https://db-engines.com/en/ranking/object+oriented+dbms,13,Starcounter,https://db-engines.com/en/system/Starcounter,Object oriented
+Object oriented DBMS,https://db-engines.com/en/ranking/object+oriented+dbms,14,Eloquera,https://db-engines.com/en/system/Eloquera,Object oriented
+Graph DBMS,https://db-engines.com/en/ranking/graph+dbms,31,DataChemist,https://db-engines.com/en/system/DataChemist,Graph DBMS|RDF store
+Complete ranking,https://db-engines.com/en/ranking,257,Warp 10,https://db-engines.com/en/system/Warp+10,Time Series
+Complete ranking,https://db-engines.com/en/ranking,258,Hawkular Metrics,https://db-engines.com/en/system/Hawkular+Metrics,Time Series
+Complete ranking,https://db-engines.com/en/ranking,259,EsgynDB ,https://db-engines.com/en/system/EsgynDB,Relational
+Document stores,https://db-engines.com/en/ranking/document+store,1,MongoDB ,https://db-engines.com/en/system/MongoDB,Document
+Time Series DBMS,https://db-engines.com/en/ranking/time+series+dbms,28,SiteWhere,https://db-engines.com/en/system/SiteWhere,Time Series
+Time Series DBMS,https://db-engines.com/en/ranking/time+series+dbms,28,VictoriaMetrics,https://db-engines.com/en/system/VictoriaMetrics,Time Series
+Time Series DBMS,https://db-engines.com/en/ranking/time+series+dbms,28,Yanza,https://db-engines.com/en/system/Yanza,Time Series
+Object oriented DBMS,https://db-engines.com/en/ranking/object+oriented+dbms,15,WakandaDB,https://db-engines.com/en/system/WakandaDB,Object oriented
+Object oriented DBMS,https://db-engines.com/en/ranking/object+oriented+dbms,16,VelocityDB,https://db-engines.com/en/system/VelocityDB,Graph DBMS|Object oriented DBMS
+Object oriented DBMS,https://db-engines.com/en/ranking/object+oriented+dbms,17,Versant FastObjects,https://db-engines.com/en/system/Versant+FastObjects,Object oriented
+Complete ranking,https://db-engines.com/en/ranking,260,NEventStore,https://db-engines.com/en/system/NEventStore,Event
+Complete ranking,https://db-engines.com/en/ranking,261,ITTIA,https://db-engines.com/en/system/ITTIA,Relational
+Complete ranking,https://db-engines.com/en/ranking,262,RedStore,https://db-engines.com/en/system/RedStore,RDF
+Complete ranking,https://db-engines.com/en/ranking,263,Sparksee,https://db-engines.com/en/system/Sparksee,Graph
+Complete ranking,https://db-engines.com/en/ranking,264,Valentina Server,https://db-engines.com/en/system/Valentina+Server,Relational
+Document stores,https://db-engines.com/en/ranking/document+store,2,Amazon DynamoDB ,https://db-engines.com/en/system/Amazon+DynamoDB,Document store|Key-value store
+Document stores,https://db-engines.com/en/ranking/document+store,3,Couchbase ,https://db-engines.com/en/system/Couchbase,Document
+Document stores,https://db-engines.com/en/ranking/document+store,4,Microsoft Azure Cosmos DB ,https://db-engines.com/en/system/Microsoft+Azure+Cosmos+DB,Document store|Graph DBMS|Key-value store|Wide column store
+Document stores,https://db-engines.com/en/ranking/document+store,5,CouchDB,https://db-engines.com/en/system/CouchDB,Document
+Document stores,https://db-engines.com/en/ranking/document+store,6,MarkLogic ,https://db-engines.com/en/system/MarkLogic,Document store|Native XML DBMS|RDF store|Search engine
+Object oriented DBMS,https://db-engines.com/en/ranking/object+oriented+dbms,18,Siaqodb,https://db-engines.com/en/system/Siaqodb,Object oriented
+Object oriented DBMS,https://db-engines.com/en/ranking/object+oriented+dbms,19,OrigoDB,https://db-engines.com/en/system/OrigoDB,Document store|Object oriented DBMS
+Object oriented DBMS,https://db-engines.com/en/ranking/object+oriented+dbms,20,JSqlDb,https://db-engines.com/en/system/JSqlDb,Document store|Object oriented DBMS
+Complete ranking,https://db-engines.com/en/ranking,265,ActorDB,https://db-engines.com/en/system/ActorDB,Relational
+Complete ranking,https://db-engines.com/en/ranking,266,Quasardb ,https://db-engines.com/en/system/Quasardb,Time Series
+Complete ranking,https://db-engines.com/en/ranking,267,Eloquera,https://db-engines.com/en/system/Eloquera,Object oriented
+Document stores,https://db-engines.com/en/ranking/document+store,7,Firebase Realtime Database,https://db-engines.com/en/system/Firebase+Realtime+Database,Document
+Document stores,https://db-engines.com/en/ranking/document+store,8,OrientDB,https://db-engines.com/en/system/OrientDB,Document store|Graph DBMS|Key-value store
+Document stores,https://db-engines.com/en/ranking/document+store,9,RavenDB ,https://db-engines.com/en/system/RavenDB,Document
+Complete ranking,https://db-engines.com/en/ranking,268,XtremeData,https://db-engines.com/en/system/XtremeData,Relational
+Complete ranking,https://db-engines.com/en/ranking,269,GRAKN.AI ,https://db-engines.com/en/system/GRAKN.AI,Graph DBMS|Relational DBMS
+Complete ranking,https://db-engines.com/en/ranking,270,Brytlyt,https://db-engines.com/en/system/Brytlyt,Relational
+Document stores,https://db-engines.com/en/ranking/document+store,10,Google Cloud Datastore,https://db-engines.com/en/system/Google+Cloud+Datastore,Document
+Document stores,https://db-engines.com/en/ranking/document+store,11,Google Cloud Firestore,https://db-engines.com/en/system/Google+Cloud+Firestore,Document
+Document stores,https://db-engines.com/en/ranking/document+store,12,ArangoDB,https://db-engines.com/en/system/ArangoDB,Document store|Graph DBMS|Key-value store
+Complete ranking,https://db-engines.com/en/ranking,271,GraphBase,https://db-engines.com/en/system/GraphBase,Graph
+Complete ranking,https://db-engines.com/en/ranking,272,TinkerGraph,https://db-engines.com/en/system/TinkerGraph,Graph
+Complete ranking,https://db-engines.com/en/ranking,273,Mulgara,https://db-engines.com/en/system/Mulgara,RDF
+Document stores,https://db-engines.com/en/ranking/document+store,13,RethinkDB,https://db-engines.com/en/system/RethinkDB,Document
+Document stores,https://db-engines.com/en/ranking/document+store,14,Cloudant,https://db-engines.com/en/system/Cloudant,Document
+Document stores,https://db-engines.com/en/ranking/document+store,15,PouchDB,https://db-engines.com/en/system/PouchDB,Document
+Complete ranking,https://db-engines.com/en/ranking,274,Strabon,https://db-engines.com/en/system/Strabon,RDF
+Complete ranking,https://db-engines.com/en/ranking,275,Transbase,https://db-engines.com/en/system/Transbase,Relational
+Complete ranking,https://db-engines.com/en/ranking,276,Blueflood,https://db-engines.com/en/system/Blueflood,Time Series
+Document stores,https://db-engines.com/en/ranking/document+store,16,Apache Drill,https://db-engines.com/en/system/Apache+Drill,Document store|Relational DBMS
+Document stores,https://db-engines.com/en/ranking/document+store,17,CloudKit,https://db-engines.com/en/system/CloudKit,Document
+Document stores,https://db-engines.com/en/ranking/document+store,18,Mnesia,https://db-engines.com/en/system/Mnesia,Document
+Complete ranking,https://db-engines.com/en/ranking,277,TayzGrid,https://db-engines.com/en/system/TayzGrid,Key-value
+Complete ranking,https://db-engines.com/en/ranking,278,EJDB,https://db-engines.com/en/system/EJDB,Document
+Complete ranking,https://db-engines.com/en/ranking,279,NosDB,https://db-engines.com/en/system/NosDB,Document
+Complete ranking,https://db-engines.com/en/ranking,280,DensoDB,https://db-engines.com/en/system/DensoDB,Document
+Complete ranking,https://db-engines.com/en/ranking,281,WakandaDB,https://db-engines.com/en/system/WakandaDB,Object oriented
+Document stores,https://db-engines.com/en/ranking/document+store,19,Datameer,https://db-engines.com/en/system/Datameer,Document
+Document stores,https://db-engines.com/en/ranking/document+store,20,FoundationDB,https://db-engines.com/en/system/FoundationDB,Document store|Key-value store|Relational DBMS
+Document stores,https://db-engines.com/en/ranking/document+store,21,LiteDB,https://db-engines.com/en/system/LiteDB,Document
+Document stores,https://db-engines.com/en/ranking/document+store,22,BigchainDB,https://db-engines.com/en/system/BigchainDB,Document
+Document stores,https://db-engines.com/en/ranking/document+store,23,MapR-DB,https://db-engines.com/en/system/MapR-DB,Document store|Wide column store
+Complete ranking,https://db-engines.com/en/ranking,282,VelocityDB,https://db-engines.com/en/system/VelocityDB,Graph DBMS|Object oriented DBMS
+Complete ranking,https://db-engines.com/en/ranking,283,RaptorDB,https://db-engines.com/en/system/RaptorDB,Document
+Complete ranking,https://db-engines.com/en/ranking,284,Versant FastObjects,https://db-engines.com/en/system/Versant+FastObjects,Object oriented
+Complete ranking,https://db-engines.com/en/ranking,285,SenseiDB,https://db-engines.com/en/system/SenseiDB,Document
+Complete ranking,https://db-engines.com/en/ranking,286,Bangdb,https://db-engines.com/en/system/Bangdb,Key-value
+Document stores,https://db-engines.com/en/ranking/document+store,24,InterSystems IRIS ,https://db-engines.com/en/system/InterSystems+IRIS,Document store|Key-value store|Object oriented DBMS|Relational DBMS
+Document stores,https://db-engines.com/en/ranking/document+store,25,Sqrrl,https://db-engines.com/en/system/Sqrrl,Document store|Graph DBMS|Key-value store|Wide column store
+Document stores,https://db-engines.com/en/ranking/document+store,26,Percona Server for MongoDB ,https://db-engines.com/en/system/Percona+Server+for+MongoDB,Document
+Complete ranking,https://db-engines.com/en/ranking,287,Siaqodb,https://db-engines.com/en/system/Siaqodb,Object oriented
+Complete ranking,https://db-engines.com/en/ranking,288,TempoIQ,https://db-engines.com/en/system/TempoIQ,Time Series
+Complete ranking,https://db-engines.com/en/ranking,289,JaguarDB ,https://db-engines.com/en/system/JaguarDB,Key-value
+Document stores,https://db-engines.com/en/ranking/document+store,27,AlaSQL,https://db-engines.com/en/system/AlaSQL,Document store|Relational DBMS
+Document stores,https://db-engines.com/en/ranking/document+store,28,LokiJS,https://db-engines.com/en/system/LokiJS,Document
+Document stores,https://db-engines.com/en/ranking/document+store,29,FaunaDB ,https://db-engines.com/en/system/FaunaDB,Document store|Graph DBMS|Relational DBMS|Time Series DBMS
+Complete ranking,https://db-engines.com/en/ranking,290,MammothDB,https://db-engines.com/en/system/MammothDB,Relational
+Complete ranking,https://db-engines.com/en/ranking,291,BrightstarDB,https://db-engines.com/en/system/BrightstarDB,RDF
+Complete ranking,https://db-engines.com/en/ranking,292,SiriDB,https://db-engines.com/en/system/SiriDB,Time Series
+Complete ranking,https://db-engines.com/en/ranking,293,SwayDB,https://db-engines.com/en/system/SwayDB,Key-value
+Complete ranking,https://db-engines.com/en/ranking,294,Badger,https://db-engines.com/en/system/Badger,Key-value
+Complete ranking,https://db-engines.com/en/ranking,295,IRONdb ,https://db-engines.com/en/system/IRONdb,Time Series
+Document stores,https://db-engines.com/en/ranking/document+store,30,YugaByte DB,https://db-engines.com/en/system/YugaByte+DB,Document store|Key-value store|Wide column store
+Document stores,https://db-engines.com/en/ranking/document+store,31,Sequoiadb ,https://db-engines.com/en/system/Sequoiadb,Document store|Relational DBMS
+Document stores,https://db-engines.com/en/ranking/document+store,32,EJDB,https://db-engines.com/en/system/EJDB,Document
+Document stores,https://db-engines.com/en/ranking/document+store,33,NosDB,https://db-engines.com/en/system/NosDB,Document
+Document stores,https://db-engines.com/en/ranking/document+store,34,DensoDB,https://db-engines.com/en/system/DensoDB,Document
+Complete ranking,https://db-engines.com/en/ranking,296,Dydra,https://db-engines.com/en/system/Dydra,RDF
+Complete ranking,https://db-engines.com/en/ranking,297,Manticore Search,https://db-engines.com/en/system/Manticore+Search,Search engine
+Complete ranking,https://db-engines.com/en/ranking,298,WhiteDB,https://db-engines.com/en/system/WhiteDB,Document
+Complete ranking,https://db-engines.com/en/ranking,299,LeanXcale,https://db-engines.com/en/system/LeanXcale,Key-value store|Relational DBMS
+Document stores,https://db-engines.com/en/ranking/document+store,35,RaptorDB,https://db-engines.com/en/system/RaptorDB,Document
+Document stores,https://db-engines.com/en/ranking/document+store,36,SenseiDB,https://db-engines.com/en/system/SenseiDB,Document
+Document stores,https://db-engines.com/en/ranking/document+store,37,WhiteDB,https://db-engines.com/en/system/WhiteDB,Document
+Document stores,https://db-engines.com/en/ranking/document+store,38,ToroDB,https://db-engines.com/en/system/ToroDB,Document
+Document stores,https://db-engines.com/en/ranking/document+store,39,iBoxDB,https://db-engines.com/en/system/iBoxDB,Document
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,1,Redis ,https://db-engines.com/en/system/Redis,Key-value store|Document store|Graph DBMS|Search engine|Time Series DBMS
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,2,Amazon DynamoDB ,https://db-engines.com/en/system/Amazon+DynamoDB,Document store|Key-value store
+Complete ranking,https://db-engines.com/en/ranking,300,HGraphDB,https://db-engines.com/en/system/HGraphDB,Graph
+Complete ranking,https://db-engines.com/en/ranking,301,DBSight,https://db-engines.com/en/system/DBSight,Search engine
+Complete ranking,https://db-engines.com/en/ranking,302,Memgraph ,https://db-engines.com/en/system/Memgraph,Graph
+Complete ranking,https://db-engines.com/en/ranking,303,CodernityDB,https://db-engines.com/en/system/CodernityDB,Key-value
+Complete ranking,https://db-engines.com/en/ranking,304,Kyoto Tycoon,https://db-engines.com/en/system/Kyoto+Tycoon,Key-value
+Complete ranking,https://db-engines.com/en/ranking,305,ToroDB,https://db-engines.com/en/system/ToroDB,Document
+Document stores,https://db-engines.com/en/ranking/document+store,40,CortexDB,https://db-engines.com/en/system/CortexDB,Document store|Key-value store
+Document stores,https://db-engines.com/en/ranking/document+store,41,FinchDB,https://db-engines.com/en/system/FinchDB,Document store|Search engine
+Document stores,https://db-engines.com/en/ranking/document+store,42,OrigoDB,https://db-engines.com/en/system/OrigoDB,Document store|Object oriented DBMS
+Document stores,https://db-engines.com/en/ranking/document+store,43,Atos Standard Common Repository,https://db-engines.com/en/system/Atos+Standard+Common+Repository,Document store|Key-value store
+Document stores,https://db-engines.com/en/ranking/document+store,43,Djondb,https://db-engines.com/en/system/Djondb,Document
+Document stores,https://db-engines.com/en/ranking/document+store,43,JasDB,https://db-engines.com/en/system/JasDB,Document
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,3,Memcached,https://db-engines.com/en/system/Memcached,Key-value
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,4,Microsoft Azure Cosmos DB ,https://db-engines.com/en/system/Microsoft+Azure+Cosmos+DB,Document store|Graph DBMS|Key-value store|Wide column store
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,5,Hazelcast,https://db-engines.com/en/system/Hazelcast,Key-value store|Document store
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,6,Ehcache,https://db-engines.com/en/system/Ehcache,Key-value
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,7,Aerospike ,https://db-engines.com/en/system/Aerospike,Key-value
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,8,OrientDB,https://db-engines.com/en/system/OrientDB,Document store|Graph DBMS|Key-value store
+Complete ranking,https://db-engines.com/en/ranking,306,SmallSQL,https://db-engines.com/en/system/SmallSQL,Relational
+Complete ranking,https://db-engines.com/en/ranking,307,JethroData,https://db-engines.com/en/system/JethroData,Relational
+Document stores,https://db-engines.com/en/ranking/document+store,43,JSqlDb,https://db-engines.com/en/system/JSqlDb,Document store|Object oriented DBMS
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,9,Riak KV,https://db-engines.com/en/system/Riak+KV,Key-value
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,10,Ignite,https://db-engines.com/en/system/Ignite,Key-value store|Relational DBMS
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,11,ArangoDB,https://db-engines.com/en/system/ArangoDB,Document store|Graph DBMS|Key-value store
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,12,InterSystems Caché,https://db-engines.com/en/system/InterSystems+Cach%C3%A9,Key-value store|Object oriented DBMS|Relational DBMS|Document store
+Complete ranking,https://db-engines.com/en/ranking,308,BigObject,https://db-engines.com/en/system/BigObject,Relational
+Complete ranking,https://db-engines.com/en/ranking,309,searchxml,https://db-engines.com/en/system/searchxml,Native XML DBMS|Search engine
+Complete ranking,https://db-engines.com/en/ranking,310,Elliptics,https://db-engines.com/en/system/Elliptics,Key-value
+Complete ranking,https://db-engines.com/en/ranking,311,iBoxDB,https://db-engines.com/en/system/iBoxDB,Document
+Complete ranking,https://db-engines.com/en/ranking,312,InfinityDB,https://db-engines.com/en/system/InfinityDB,Key-value
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,13,Oracle NoSQL ,https://db-engines.com/en/system/Oracle+NoSQL,Key-value store|Relational DBMS
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,14,Oracle Berkeley DB,https://db-engines.com/en/system/Oracle+Berkeley+DB,Key-value store|Native XML DBMS
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,15,LevelDB,https://db-engines.com/en/system/LevelDB,Key-value
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,16,RocksDB,https://db-engines.com/en/system/RocksDB,Key-value
+Native XML DBMS,https://db-engines.com/en/ranking/native+xml+dbms,1,MarkLogic ,https://db-engines.com/en/system/MarkLogic,Document store|Native XML DBMS|RDF store|Search engine
+Native XML DBMS,https://db-engines.com/en/ranking/native+xml+dbms,2,Virtuoso ,https://db-engines.com/en/system/Virtuoso,Graph DBMS|Native XML DBMS|Relational DBMS|RDF store|Document store
+Native XML DBMS,https://db-engines.com/en/ranking/native+xml+dbms,3,Oracle Berkeley DB,https://db-engines.com/en/system/Oracle+Berkeley+DB,Key-value store|Native XML DBMS
+Complete ranking,https://db-engines.com/en/ranking,313,Exorbyte,https://db-engines.com/en/system/Exorbyte,Search engine
+Complete ranking,https://db-engines.com/en/ranking,314,ScaleOut StateServer,https://db-engines.com/en/system/ScaleOut+StateServer,Key-value
+Complete ranking,https://db-engines.com/en/ranking,315,LedisDB,https://db-engines.com/en/system/LedisDB,Key-value
+Complete ranking,https://db-engines.com/en/ranking,316,HyperLevelDB,https://db-engines.com/en/system/HyperLevelDB,Key-value
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,17,Infinispan,https://db-engines.com/en/system/Infinispan,Key-value
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,18,Oracle Coherence,https://db-engines.com/en/system/Oracle+Coherence,Key-value
+Native XML DBMS,https://db-engines.com/en/ranking/native+xml+dbms,4,BaseX,https://db-engines.com/en/system/BaseX,Native XML
+Native XML DBMS,https://db-engines.com/en/ranking/native+xml+dbms,5,Sedna,https://db-engines.com/en/system/Sedna,Native XML
+Native XML DBMS,https://db-engines.com/en/ranking/native+xml+dbms,6,eXist-db,https://db-engines.com/en/system/eXist-db,Native XML
+Native XML DBMS,https://db-engines.com/en/ranking/native+xml+dbms,7,searchxml,https://db-engines.com/en/system/searchxml,Native XML DBMS|Search engine
+Complete ranking,https://db-engines.com/en/ranking,317,Upscaledb,https://db-engines.com/en/system/Upscaledb,Key-value
+Complete ranking,https://db-engines.com/en/ranking,318,Machbase,https://db-engines.com/en/system/Machbase,Time Series
+Complete ranking,https://db-engines.com/en/ranking,319,CortexDB,https://db-engines.com/en/system/CortexDB,Document store|Key-value store
+Complete ranking,https://db-engines.com/en/ranking,320,FinchDB,https://db-engines.com/en/system/FinchDB,Document store|Search engine
+Complete ranking,https://db-engines.com/en/ranking,321,Resin Cache,https://db-engines.com/en/system/Resin+Cache,Key-value
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,19,GridGain,https://db-engines.com/en/system/GridGain,Key-value store|Relational DBMS
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,20,Amazon SimpleDB,https://db-engines.com/en/system/Amazon+SimpleDB,Key-value
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,21,Geode,https://db-engines.com/en/system/Geode,Key-value
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,22,WiredTiger,https://db-engines.com/en/system/WiredTiger,Key-value
+Complete ranking,https://db-engines.com/en/ranking,322,DataChemist,https://db-engines.com/en/system/DataChemist,Graph DBMS|RDF store
+Complete ranking,https://db-engines.com/en/ranking,323,TerarkDB,https://db-engines.com/en/system/TerarkDB,Key-value
+Complete ranking,https://db-engines.com/en/ranking,324,TomP2P,https://db-engines.com/en/system/TomP2P,Key-value
+Complete ranking,https://db-engines.com/en/ranking,325,OrigoDB,https://db-engines.com/en/system/OrigoDB,Document store|Object oriented DBMS
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,23,NCache ,https://db-engines.com/en/system/NCache,Key-value
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,24,FoundationDB,https://db-engines.com/en/system/FoundationDB,Document store|Key-value store|Relational DBMS
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,25,Tarantool,https://db-engines.com/en/system/Tarantool,Key-value
+Complete ranking,https://db-engines.com/en/ranking,326,DolphinDB,https://db-engines.com/en/system/DolphinDB,Time Series
+Complete ranking,https://db-engines.com/en/ranking,327,Linter,https://db-engines.com/en/system/Linter,Relational
+Complete ranking,https://db-engines.com/en/ranking,328,SparkleDB,https://db-engines.com/en/system/SparkleDB,RDF
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,26,GT.M,https://db-engines.com/en/system/GT.M,Key-value
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,27,XAP,https://db-engines.com/en/system/XAP,Key-value
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,28,ZODB,https://db-engines.com/en/system/ZODB,Key-value
+Complete ranking,https://db-engines.com/en/ranking,329,Newts,https://db-engines.com/en/system/Newts,Time Series
+Complete ranking,https://db-engines.com/en/ranking,330,Atos Standard Common Repository,https://db-engines.com/en/system/Atos+Standard+Common+Repository,Document store|Key-value store
+Complete ranking,https://db-engines.com/en/ranking,330,BergDB,https://db-engines.com/en/system/BergDB,Key-value
+Complete ranking,https://db-engines.com/en/ranking,330,Cachelot.io,https://db-engines.com/en/system/Cachelot.io,Key-value
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,29,WebSphere eXtreme Scale,https://db-engines.com/en/system/WebSphere+eXtreme+Scale,Key-value
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,30,InterSystems IRIS ,https://db-engines.com/en/system/InterSystems+IRIS,Document store|Key-value store|Object oriented DBMS|Relational DBMS
+Complete ranking,https://db-engines.com/en/ranking,330,DaggerDB,https://db-engines.com/en/system/DaggerDB,Relational
+Complete ranking,https://db-engines.com/en/ranking,330,Djondb,https://db-engines.com/en/system/Djondb,Document
+Complete ranking,https://db-engines.com/en/ranking,330,Edge Intelligence,https://db-engines.com/en/system/Edge+Intelligence,Relational
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,31,Tokyo Cabinet,https://db-engines.com/en/system/Tokyo+Cabinet,Key-value
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,32,BoltDB,https://db-engines.com/en/system/BoltDB,Key-value
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,33,Sqrrl,https://db-engines.com/en/system/Sqrrl,Document store|Graph DBMS|Key-value store|Wide column store
+Complete ranking,https://db-engines.com/en/ranking,330,Helium,https://db-engines.com/en/system/Helium,Key-value
+Complete ranking,https://db-engines.com/en/ranking,330,Indica,https://db-engines.com/en/system/Indica,Search engine
+Complete ranking,https://db-engines.com/en/ranking,330,JasDB,https://db-engines.com/en/system/JasDB,Document
+Complete ranking,https://db-engines.com/en/ranking,330,JSqlDb,https://db-engines.com/en/system/JSqlDb,Document store|Object oriented DBMS
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,34,MapDB,https://db-engines.com/en/system/MapDB,Key-value
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,35,Graph Engine,https://db-engines.com/en/system/Graph+Engine,Graph DBMS|Key-value store
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,36,Tokyo Tyrant,https://db-engines.com/en/system/Tokyo+Tyrant,Key-value
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,37,c-treeACE ,https://db-engines.com/en/system/c-treeACE,Key-value store|Relational DBMS
+Complete ranking,https://db-engines.com/en/ranking,330,K-DB,https://db-engines.com/en/system/K-DB,Relational
+Complete ranking,https://db-engines.com/en/ranking,330,Sadas Engine,https://db-engines.com/en/system/Sadas+Engine,Relational
+Complete ranking,https://db-engines.com/en/ranking,330,SiteWhere,https://db-engines.com/en/system/SiteWhere,Time Series
+Complete ranking,https://db-engines.com/en/ranking,330,VictoriaMetrics,https://db-engines.com/en/system/VictoriaMetrics,Time Series
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,38,Project Voldemort,https://db-engines.com/en/system/Project+Voldemort,Key-value
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,39,Hibari,https://db-engines.com/en/system/Hibari,Key-value
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,40,Scalaris,https://db-engines.com/en/system/Scalaris,Key-value
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,41,YugaByte DB,https://db-engines.com/en/system/YugaByte+DB,Document store|Key-value store|Wide column store
+Multivalue DBMS,https://db-engines.com/en/ranking/multivalue+dbms,1,Adabas,https://db-engines.com/en/system/Adabas,Multivalue
+Multivalue DBMS,https://db-engines.com/en/ranking/multivalue+dbms,2,"UniData,UniVerse",https://db-engines.com/en/system/UniData%2CUniVerse,Multivalue
+Multivalue DBMS,https://db-engines.com/en/ranking/multivalue+dbms,3,jBASE ,https://db-engines.com/en/system/jBASE,Multivalue
+Event Stores,https://db-engines.com/en/ranking/event+store,1,Event Store,https://db-engines.com/en/system/Event+Store,Event
+Event Stores,https://db-engines.com/en/ranking/event+store,2,IBM Db2 Event Store,https://db-engines.com/en/system/IBM+Db2+Event+Store,Event Store|Time Series DBMS
+Event Stores,https://db-engines.com/en/ranking/event+store,3,NEventStore,https://db-engines.com/en/system/NEventStore,Event
+Complete ranking,https://db-engines.com/en/ranking,330,Yaacomo,https://db-engines.com/en/system/Yaacomo,Relational
+Complete ranking,https://db-engines.com/en/ranking,330,Yanza,https://db-engines.com/en/system/Yanza,Time Series
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,42,GridDB ,https://db-engines.com/en/system/GridDB,Key-value store|Time Series DBMS|Relational DBMS
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,43,c-treeEDGE ,https://db-engines.com/en/system/c-treeEDGE,Key-value store|Relational DBMS
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,44,Kyoto Cabinet,https://db-engines.com/en/system/Kyoto+Cabinet,Key-value
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,45,STSdb,https://db-engines.com/en/system/STSdb,Key-value
+Multivalue DBMS,https://db-engines.com/en/ranking/multivalue+dbms,4,Model 204,https://db-engines.com/en/system/Model+204,Multivalue
+Multivalue DBMS,https://db-engines.com/en/ranking/multivalue+dbms,5,D3,https://db-engines.com/en/system/D3,Multivalue
+Multivalue DBMS,https://db-engines.com/en/ranking/multivalue+dbms,6,SciDB,https://db-engines.com/en/system/SciDB,Multivalue
+Multivalue DBMS,https://db-engines.com/en/ranking/multivalue+dbms,7,OpenInsight,https://db-engines.com/en/system/OpenInsight,Multivalue
+Multivalue DBMS,https://db-engines.com/en/ranking/multivalue+dbms,8,Northgate Reality,https://db-engines.com/en/system/Northgate+Reality,Multivalue
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,46,TayzGrid,https://db-engines.com/en/system/TayzGrid,Key-value
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,47,Bangdb,https://db-engines.com/en/system/Bangdb,Key-value
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,48,JaguarDB ,https://db-engines.com/en/system/JaguarDB,Key-value
+Multivalue DBMS,https://db-engines.com/en/ranking/multivalue+dbms,9,Rasdaman,https://db-engines.com/en/system/Rasdaman,Multivalue
+Multivalue DBMS,https://db-engines.com/en/ranking/multivalue+dbms,10,OpenQM,https://db-engines.com/en/system/OpenQM,Multivalue
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,49,SwayDB,https://db-engines.com/en/system/SwayDB,Key-value
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,50,Badger,https://db-engines.com/en/system/Badger,Key-value
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,51,LeanXcale,https://db-engines.com/en/system/LeanXcale,Key-value store|Relational DBMS
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,52,CodernityDB,https://db-engines.com/en/system/CodernityDB,Key-value
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,53,Kyoto Tycoon,https://db-engines.com/en/system/Kyoto+Tycoon,Key-value
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,54,Elliptics,https://db-engines.com/en/system/Elliptics,Key-value
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,55,InfinityDB,https://db-engines.com/en/system/InfinityDB,Key-value
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,56,ScaleOut StateServer,https://db-engines.com/en/system/ScaleOut+StateServer,Key-value
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,57,LedisDB,https://db-engines.com/en/system/LedisDB,Key-value
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,58,HyperLevelDB,https://db-engines.com/en/system/HyperLevelDB,Key-value
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,59,Upscaledb,https://db-engines.com/en/system/Upscaledb,Key-value
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,1,Oracle ,https://db-engines.com/en/system/Oracle,Relational DBMS|Document store|Graph DBMS|RDF store
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,60,CortexDB,https://db-engines.com/en/system/CortexDB,Document store|Key-value store
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,61,Resin Cache,https://db-engines.com/en/system/Resin+Cache,Key-value
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,62,TerarkDB,https://db-engines.com/en/system/TerarkDB,Key-value
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,2,MySQL ,https://db-engines.com/en/system/MySQL,Relational DBMS|Document store
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,3,Microsoft SQL Server ,https://db-engines.com/en/system/Microsoft+SQL+Server,Relational DBMS|Document store|Graph DBMS
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,63,TomP2P,https://db-engines.com/en/system/TomP2P,Key-value
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,64,Atos Standard Common Repository,https://db-engines.com/en/system/Atos+Standard+Common+Repository,Document store|Key-value store
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,64,BergDB,https://db-engines.com/en/system/BergDB,Key-value
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,64,Cachelot.io,https://db-engines.com/en/system/Cachelot.io,Key-value
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,4,PostgreSQL ,https://db-engines.com/en/system/PostgreSQL,Relational DBMS|Document store
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,5,IBM Db2 ,https://db-engines.com/en/system/IBM+Db2,Relational DBMS|Document store|RDF store
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,6,Microsoft Access,https://db-engines.com/en/system/Microsoft+Access,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,7,SQLite ,https://db-engines.com/en/system/SQLite,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,8,MariaDB ,https://db-engines.com/en/system/MariaDB,Relational DBMS|Document store|Graph DBMS
+Key-value stores,https://db-engines.com/en/ranking/key-value+store,64,Helium,https://db-engines.com/en/system/Helium,Key-value
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,9,Teradata ,https://db-engines.com/en/system/Teradata,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,10,Hive ,https://db-engines.com/en/system/Hive,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,11,FileMaker,https://db-engines.com/en/system/FileMaker,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,12,SAP Adaptive Server,https://db-engines.com/en/system/SAP+Adaptive+Server,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,13,SAP HANA ,https://db-engines.com/en/system/SAP+HANA,Relational DBMS|Document store|Graph DBMS
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,14,Microsoft Azure SQL Database,https://db-engines.com/en/system/Microsoft+Azure+SQL+Database,Relational DBMS|Document store|Graph DBMS
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,15,Informix,https://db-engines.com/en/system/Informix,Relational DBMS|Document store|Time Series DBMS
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,16,Vertica ,https://db-engines.com/en/system/Vertica,Relational DBMS|Document store
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,17,Amazon Redshift ,https://db-engines.com/en/system/Amazon+Redshift,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,18,Firebird,https://db-engines.com/en/system/Firebird,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,19,Google BigQuery ,https://db-engines.com/en/system/Google+BigQuery,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,20,Netezza,https://db-engines.com/en/system/Netezza,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,21,Spark SQL,https://db-engines.com/en/system/Spark+SQL,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,22,Impala,https://db-engines.com/en/system/Impala,Relational DBMS|Document store
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,23,Greenplum,https://db-engines.com/en/system/Greenplum,Relational DBMS|Document store
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,24,dBASE,https://db-engines.com/en/system/dBASE,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,25,Oracle Essbase,https://db-engines.com/en/system/Oracle+Essbase,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,26,Microsoft Azure SQL Data Warehouse,https://db-engines.com/en/system/Microsoft+Azure+SQL+Data+Warehouse,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,27,Realm,https://db-engines.com/en/system/Realm,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,28,H2,https://db-engines.com/en/system/H2,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,29,Interbase,https://db-engines.com/en/system/Interbase,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,30,Amazon Aurora,https://db-engines.com/en/system/Amazon+Aurora,Relational DBMS|Document store
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,31,Ingres,https://db-engines.com/en/system/Ingres,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,32,SAP SQL Anywhere,https://db-engines.com/en/system/SAP+SQL+Anywhere,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,33,HyperSQL,https://db-engines.com/en/system/HyperSQL,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,34,Derby,https://db-engines.com/en/system/Derby,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,35,Ignite,https://db-engines.com/en/system/Ignite,Key-value store|Relational DBMS
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,36,SAP IQ,https://db-engines.com/en/system/SAP+IQ,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,37,Presto,https://db-engines.com/en/system/Presto,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,38,MaxDB,https://db-engines.com/en/system/MaxDB,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,39,OpenEdge,https://db-engines.com/en/system/OpenEdge,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,40,MemSQL ,https://db-engines.com/en/system/MemSQL,Relational DBMS|Document store
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,41,Virtuoso ,https://db-engines.com/en/system/Virtuoso,Graph DBMS|Native XML DBMS|Relational DBMS|RDF store|Document store
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,42,Snowflake ,https://db-engines.com/en/system/Snowflake,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,43,InterSystems Caché,https://db-engines.com/en/system/InterSystems+Cach%C3%A9,Key-value store|Object oriented DBMS|Relational DBMS|Document store
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,44,TimesTen ,https://db-engines.com/en/system/TimesTen,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,45,SAP Advantage Database Server,https://db-engines.com/en/system/SAP+Advantage+Database+Server,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,46,Apache Drill,https://db-engines.com/en/system/Apache+Drill,Document store|Relational DBMS
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,47,Percona Server for MySQL ,https://db-engines.com/en/system/Percona+Server+for+MySQL,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,48,OmniSci ,https://db-engines.com/en/system/OmniSci,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,49,ClickHouse,https://db-engines.com/en/system/ClickHouse,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,50,4D,https://db-engines.com/en/system/4D,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,51,CockroachDB,https://db-engines.com/en/system/CockroachDB,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,52,GridGain,https://db-engines.com/en/system/GridGain,Key-value store|Relational DBMS
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,53,EnterpriseDB ,https://db-engines.com/en/system/EnterpriseDB,Relational DBMS|Document store
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,54,EXASOL,https://db-engines.com/en/system/EXASOL,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,55,VoltDB,https://db-engines.com/en/system/VoltDB,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,56,Google Cloud Spanner ,https://db-engines.com/en/system/Google+Cloud+Spanner,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,57,Datomic,https://db-engines.com/en/system/Datomic,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,58,IBM Db2 warehouse,https://db-engines.com/en/system/IBM+Db2+warehouse,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,59,MonetDB ,https://db-engines.com/en/system/MonetDB,Relational DBMS|Document store
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,60,Red Brick,https://db-engines.com/en/system/Red+Brick,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,61,Druid,https://db-engines.com/en/system/Druid,Relational DBMS|Time Series DBMS
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,62,mSQL,https://db-engines.com/en/system/mSQL,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,63,TiDB ,https://db-engines.com/en/system/TiDB,Relational DBMS|Document store
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,64,Tibero,https://db-engines.com/en/system/Tibero,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,65,SQLBase,https://db-engines.com/en/system/SQLBase,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,66,Oracle Rdb,https://db-engines.com/en/system/Oracle+Rdb,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,67,Empress,https://db-engines.com/en/system/Empress,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,68,HFSQL,https://db-engines.com/en/system/HFSQL,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,69,1010data,https://db-engines.com/en/system/1010data,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,70,Altibase,https://db-engines.com/en/system/Altibase,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,71,Cubrid,https://db-engines.com/en/system/Cubrid,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,72,FoundationDB,https://db-engines.com/en/system/FoundationDB,Document store|Key-value store|Relational DBMS
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,73,Infobright,https://db-engines.com/en/system/Infobright,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,74,NuoDB ,https://db-engines.com/en/system/NuoDB,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,75,NonStop SQL,https://db-engines.com/en/system/NonStop+SQL,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,76,DataEase,https://db-engines.com/en/system/DataEase,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,77,HAWQ,https://db-engines.com/en/system/HAWQ,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,78,Citus,https://db-engines.com/en/system/Citus,Relational DBMS|Document store
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,79,DBISAM,https://db-engines.com/en/system/DBISAM,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,80,Kognitio,https://db-engines.com/en/system/Kognitio,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,81,R:BASE,https://db-engines.com/en/system/R%3ABASE,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,82,solidDB,https://db-engines.com/en/system/solidDB,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,83,SQL.JS,https://db-engines.com/en/system/SQL.JS,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,84,Actian Vector,https://db-engines.com/en/system/Actian+Vector,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,85,Datacom/DB,https://db-engines.com/en/system/Datacom%2FDB,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,86,Clustrix,https://db-engines.com/en/system/Clustrix,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,87,ScaleArc,https://db-engines.com/en/system/ScaleArc,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,88,CrateDB ,https://db-engines.com/en/system/CrateDB,Relational DBMS|Search engine|Document store
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,89,Splice Machine,https://db-engines.com/en/system/Splice+Machine,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,90,FrontBase,https://db-engines.com/en/system/FrontBase,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,91,NexusDB,https://db-engines.com/en/system/NexusDB,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,92,GBase ,https://db-engines.com/en/system/GBase,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,93,InterSystems IRIS ,https://db-engines.com/en/system/InterSystems+IRIS,Document store|Key-value store|Object oriented DBMS|Relational DBMS
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,94,OpenBase,https://db-engines.com/en/system/OpenBase,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,95,Kinetica,https://db-engines.com/en/system/Kinetica,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,96,VistaDB,https://db-engines.com/en/system/VistaDB,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,97,AlaSQL,https://db-engines.com/en/system/AlaSQL,Document store|Relational DBMS
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,98,SQream DB,https://db-engines.com/en/system/SQream+DB,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,99,c-treeACE ,https://db-engines.com/en/system/c-treeACE,Key-value store|Relational DBMS
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,100,Postgres-XL,https://db-engines.com/en/system/Postgres-XL,Relational DBMS|Document store
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,101,Trafodion,https://db-engines.com/en/system/Trafodion,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,102,eXtremeDB ,https://db-engines.com/en/system/eXtremeDB,Relational DBMS|Time Series DBMS
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,103,Actian PSQL,https://db-engines.com/en/system/Actian+PSQL,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,104,FaunaDB ,https://db-engines.com/en/system/FaunaDB,Document store|Graph DBMS|Relational DBMS|Time Series DBMS
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,105,Alibaba Cloud MaxCompute,https://db-engines.com/en/system/Alibaba+Cloud+MaxCompute,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,106,Raima Database Manager,https://db-engines.com/en/system/Raima+Database+Manager,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,107,PipelineDB,https://db-engines.com/en/system/PipelineDB,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,108,Tajo,https://db-engines.com/en/system/Tajo,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,109,Alibaba Cloud HybridDB,https://db-engines.com/en/system/Alibaba+Cloud+HybridDB,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,110,Sequoiadb ,https://db-engines.com/en/system/Sequoiadb,Document store|Relational DBMS
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,111,Mimer SQL,https://db-engines.com/en/system/Mimer+SQL,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,112,c-treeEDGE ,https://db-engines.com/en/system/c-treeEDGE,Key-value store|Relational DBMS
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,113,SnappyData,https://db-engines.com/en/system/SnappyData,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,114,Comdb2,https://db-engines.com/en/system/Comdb2,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,115,ElevateDB,https://db-engines.com/en/system/ElevateDB,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,116,AgensGraph ,https://db-engines.com/en/system/AgensGraph,Graph DBMS|Relational DBMS
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,117,Lovefield,https://db-engines.com/en/system/Lovefield,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,118,TransLattice,https://db-engines.com/en/system/TransLattice,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,119,EsgynDB ,https://db-engines.com/en/system/EsgynDB,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,120,ITTIA,https://db-engines.com/en/system/ITTIA,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,121,Valentina Server,https://db-engines.com/en/system/Valentina+Server,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,122,ActorDB,https://db-engines.com/en/system/ActorDB,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,123,XtremeData,https://db-engines.com/en/system/XtremeData,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,124,GRAKN.AI ,https://db-engines.com/en/system/GRAKN.AI,Graph DBMS|Relational DBMS
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,125,Brytlyt,https://db-engines.com/en/system/Brytlyt,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,126,Transbase,https://db-engines.com/en/system/Transbase,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,127,MammothDB,https://db-engines.com/en/system/MammothDB,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,128,LeanXcale,https://db-engines.com/en/system/LeanXcale,Key-value store|Relational DBMS
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,129,SmallSQL,https://db-engines.com/en/system/SmallSQL,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,130,JethroData,https://db-engines.com/en/system/JethroData,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,131,BigObject,https://db-engines.com/en/system/BigObject,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,132,Linter,https://db-engines.com/en/system/Linter,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,133,DaggerDB,https://db-engines.com/en/system/DaggerDB,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,133,Edge Intelligence,https://db-engines.com/en/system/Edge+Intelligence,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,133,K-DB,https://db-engines.com/en/system/K-DB,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,133,Sadas Engine,https://db-engines.com/en/system/Sadas+Engine,Relational
+Relational DBMS,https://db-engines.com/en/ranking/relational+dbms,133,Yaacomo,https://db-engines.com/en/system/Yaacomo,Relational
+Wide column stores,https://db-engines.com/en/ranking/wide+column+store,1,Cassandra ,https://db-engines.com/en/system/Cassandra,Wide column
+Wide column stores,https://db-engines.com/en/ranking/wide+column+store,2,HBase,https://db-engines.com/en/system/HBase,Wide column
+Wide column stores,https://db-engines.com/en/ranking/wide+column+store,3,Microsoft Azure Cosmos DB ,https://db-engines.com/en/system/Microsoft+Azure+Cosmos+DB,Document store|Graph DBMS|Key-value store|Wide column store
+Wide column stores,https://db-engines.com/en/ranking/wide+column+store,4,Datastax Enterprise ,https://db-engines.com/en/system/Datastax+Enterprise,Wide column store|Document store|Graph DBMS
+Wide column stores,https://db-engines.com/en/ranking/wide+column+store,5,Microsoft Azure Table Storage,https://db-engines.com/en/system/Microsoft+Azure+Table+Storage,Wide column
+Wide column stores,https://db-engines.com/en/ranking/wide+column+store,6,Accumulo,https://db-engines.com/en/system/Accumulo,Wide column
+Wide column stores,https://db-engines.com/en/ranking/wide+column+store,7,Google Cloud Bigtable ,https://db-engines.com/en/system/Google+Cloud+Bigtable,Wide column
+Wide column stores,https://db-engines.com/en/ranking/wide+column+store,8,ScyllaDB ,https://db-engines.com/en/system/ScyllaDB,Wide column
+Wide column stores,https://db-engines.com/en/ranking/wide+column+store,9,MapR-DB,https://db-engines.com/en/system/MapR-DB,Document store|Wide column store
+Wide column stores,https://db-engines.com/en/ranking/wide+column+store,10,Sqrrl,https://db-engines.com/en/system/Sqrrl,Document store|Graph DBMS|Key-value store|Wide column store
+Wide column stores,https://db-engines.com/en/ranking/wide+column+store,11,YugaByte DB,https://db-engines.com/en/system/YugaByte+DB,Document store|Key-value store|Wide column store
+Wide column stores,https://db-engines.com/en/ranking/wide+column+store,12,Alibaba Cloud Table Store,https://db-engines.com/en/system/Alibaba+Cloud+Table+Store,Wide column
